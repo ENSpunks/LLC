@@ -23,7 +23,7 @@ This project establishes a legal framework that may be open-sourced along with t
 
 This framework could be utilized in the future in combination with oracles like Chainlink using CCIP to take ownership of real-world assets (RWAs) and put legal title on-chain.  In practice this framework can provide the foundation for T-0 settlements as well as the base layer for codifying more complex transactions such as options and drag-along or tag-along rights.
 
-## Disclaimer/Disclosure
+## Disclosures/Disclaimers
 
 Each series is created with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. Effectively, each LLC/Series may be considered a holding company for digital onchain assets, providing owners limited liability protections.
 
