@@ -3,7 +3,7 @@
 
 ## Abstract
 
-The project will create 10,000 "tokenized" LLCs, or Series, under a Delaware Series LLC. The ownership of each LLC/Series shall be represented by a corresponding ENS subdomain and tradable onchain. Each LLC/Series may have unique ownership and management, may own assets that are isolated from other LLCs, and may provided limited liability protections to the owners from the other LLCs/Series.
+The project will create 10,000 "tokenized" LLCs, or Series, under a Delaware Series LLC. The ownership of each LLC/Series shall be represented by a corresponding ENS subdomain and tradable onchain. Each LLC/Series may have unique ownership and management, may own assets that are isolated from the other LLCs/Series, and provide limited liability protections to the owners from the other LLCs/Series.
 
 ## Background
 
