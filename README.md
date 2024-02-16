@@ -29,5 +29,7 @@ Each series is created with the express purposes of conducting any and all legal
 
 As a single-member LLC, each Series is treated by the IRS as a disregarded entity for tax purposes. This means the LLCs/Series generally do not need to file a seperste tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
 
-*These disclosures and disclaimers are not legal or tax advice but are provided for informational purposes only. Each owner of a series should consult with a licensed attorney and tax professional.*
+Selling of a LLC, in this case the ENS subdomain, will generally be considered a taxable event and subject to capital gains taxes.
+
+*These disclosures and disclaimers are not legal or tax advice but are provided for informational purposes only. Each owner of a LLC/Series should consult with a licensed attorney and tax professional.*
 
