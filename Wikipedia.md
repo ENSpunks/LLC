@@ -99,3 +99,5 @@ Note 6. In Delaware, a cell can enter into contracts, hold title to assets, gran
 Note 7. In the Bahamas, Cayman Islands, and Guernsey, the cells are unambiguously bankruptcy remote from each other. This makes these preferred jurisdictions for insurance companies.
 
 [](https://en.m.wikipedia.org/wiki/Series_LLC#Taxation_treatment)
+
+[Resources](https://en.m.wikipedia.org/wiki/Series_LLC#Resources)
