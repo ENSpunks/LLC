@@ -48,41 +48,7 @@ Make sure each series is adequately capitalized.
 
 [States and territories where a Series LLC can be formed](https://en.m.wikipedia.org/wiki/Series_LLC#States_and_territories_where_a_Series_LLC_can_be_formed)
 
-|state|statute | year	| initial | fee for top-level LLC |	naming req’ts for cell	| formation of cells	|  inter-cell	|  annual fee  |	annual report for top-level LLC |	annual report for cells	other |
-| - | - | - | - | - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-
+|Table on Wikipedia|
 
 Note 1. These states have rules for naming the cells. A typical rule requires that (a) each cell must include the name of the top-level series LLC in the cell's name, and (b) the names for each cell must be clearly distinguishable from each other.
 
@@ -101,3 +67,34 @@ Note 7. In the Bahamas, Cayman Islands, and Guernsey, the cells are unambiguousl
 [](https://en.m.wikipedia.org/wiki/Series_LLC#Taxation_treatment)
 
 [Resources](https://en.m.wikipedia.org/wiki/Series_LLC#Resources)
+
+1. Public Act 094-0607, Illinois General Assembly, House Enrolled Act 1336, 805 ILCS 180/37-40, Illinois Secretary of State information page, Archived 2012-02-08 at the Wayback Machine
+2. See, e.g., Thomas E Rutledge, Again, for the Want of a Theory: The Challenge of the "Series" to Business Organization Law, 46 Am. Bus. Law J. 311 at 313-15 (Summer 2009).
+3.  Wis. Stat. §183.0504. Wisconsin allows series LLCs, but does not specifically provide for a liability shield between the different series.
+4.  Iowa Code §490A.305
+5.  Nev. Rev. Stat. §86.296, [1],[2], "2005 Statutes of Nevada, Pages 2177-2276". www.leg.state.nv.us.
+6.  Tenn. Code §48-249-309
+7.  Utah Revised Limited Liability Company Act §48-2c-606 Archived 2008-07-11 at the Wayback Machine
+8.  "Bus. Org. Code § 101.601 et seq".
+9.  "Texas Business & Commerce Code". State of Texas. Retrieved 8 December 2019.
+10.  "Texas Series LLCs". Fair Law Group, PLLC. Retrieved 8 December 2019.
+11.  Hebert, Laura E. (30 March 2016). "Pros and Cons of the Series LLC". Lexology. Retrieved 31 March 2016.
+12.  Liquerman, Melissa C. (January 18, 2008). "Private Letter Ruling 200803004" (PDF). Internal Revenue Service.
+13.  "Series LLCs and Cell Companies". 14 September 2010.
+14.  "California FTB Filing Guidelines for Series LLCs".
+15.  Code of Alabama Section 10A-5A-11
+16.  Code of Arkansas Chatper 4, Subchapter 3, Chapter 37
+17.  6 Delaware Code Ann. §18-215, (Limited Liability Company Act, [3]
+18.  District of Columbia Code Ann. §29-802.06
+19.  Indiana Secretary of State Corporations [4]
+20.  Kansas Statutes Annotated 17-76,143 (2012)
+21.  Mo. Rev. Stat §347.186.1, Missouri Secretary of State Information Page
+22.  Montana Ann. Code §35-8-304 et seq, Montana Limited Liability Act
+23.  No. Dakota Cent. Code §§10-32-17.5, 10-32-48, 10-32-56.5.a,10-32-56.7.
+24.  Ohio Revised LLC Act - Effective 2022
+25.  18 Okla. St. Ann. §§2005(B), 2054.4
+26.  Puerto Rico Laws Ann. Title 14, §3426(p)
+27.  So Dakota division of business services
+28.  Texas Business Organizations Code §§101.601 to 101.621, 21.152(A),(C),(D), 21.153(A), 21.361(A)(2)
+29.  Wyoming Limited Liability Company Act, Wyoming Secretary of State's rules, Secretary of State's Series Limited Liability Company Instructions
+30.  "Protected Series Act - Uniform Law Commission". www.uniformlaws.org. Retrieved 2019-12-21.
