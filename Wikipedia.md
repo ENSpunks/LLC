@@ -2,7 +2,7 @@
 
 
 
-[History](https://en.m.wikipedia.org/wiki/Series_LLC#history)
+[History](https://en.m.wikipedia.org/wiki/Series_LLC#History)
 
 [Comparison to corporation, and contrasts between states](https://en.m.wikipedia.org/wiki/Series_LLC#Comparison_to_corporation,_and_contrasts_between_states)
 
