@@ -27,9 +27,10 @@ This framework could be utilized in the future in combination with oracles like 
 
 Each series is created with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. Effectively, each LLC/Series may be considered a holding company for digital onchain assets, providing owners limited liability protections.
 
-As a single-member LLC, each Series is treated by the IRS as a disregarded entity for tax purposes. This means the LLCs/Series generally do not need to file a seperste tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
+As a single-member LLC, by default each LLC/Series is treated by the IRS as a disregarded entity for tax purposes.[1] This means the LLCs/Series generally do not need to file a seperste tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
 
 Selling of a LLC, in this case the ENS subdomain, will generally be considered a taxable event and subject to capital gains taxes.
 
 *These disclosures and disclaimers are not legal or tax advice but are provided for informational purposes only. Each owner of a LLC/Series should consult with a licensed attorney and tax professional.*
 
+[1] Internal Revenue Service, Private Letter Ruling: 200803004. https://www.irs.gov/pub/irs-wd/0803004.pdf
