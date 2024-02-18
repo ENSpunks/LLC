@@ -9,7 +9,7 @@ We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on 
 
 Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain simultaniously legally binding the LLC ownership to the ENS subdomain.  
 
-For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technilogical foundation for briding and owning RWAs onchain with ENS subdomains.   
+For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technological foundation for briding and owning RWAs onchain with ENS subdomains.   
 
 ## Limited Liabilty
 
