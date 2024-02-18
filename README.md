@@ -1,45 +1,43 @@
 
-# ENS Subdomains for Owning & Managing Limited Liability Companies 
+# Mint A Delaware Limited Liability Company 
 
 ## Abstract
 
-The law is hard to scale.  It is easy to organize 1 LLC, but 10, 100, 1000, how about 10000 limited liability companies?  
+The law is hard to scale.  It is easy to form 1 limied liability company ("LLC"), but 10, 100, 1000, how about 10000 LLCs? 
 
-Using existing laws and blockchain infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and tehcnical framework to scale an unlimited number of Delaware LLC's that are individually owned and managed onchain using ENS subdomains.  
+We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on demand.  
 
-We will make it as easy as minting a subdomain to create and "import" the ownership of a Delaware limited liability company ("LLC") into ENS.
+Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain simultaniously legally binding the LLC ownership to the ENS subdomain.  
 
-## Benefits and Use Cases
+For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technilogical foundation for briding and owning RWAs onchain with ENS subdomains.   
 
-### Limited Liabilty
+## Limited Liabilty
 
-One of the benefits that LLCs provide owners is limited liability protections.  Limited liability protects the owners of a business from the risks of personally liablity for the liabilities of an LLC.  In practice limited liability can protect owners personal assets and minimize their potential loses to the amount they contributed to the business.  Self-custodied assets and accounts effectively turns every wallet address into a business and legal risk, we will illustrate those risks in the context of the real world and a blockchain based counter-part:      
+One of the immediate benefits that LLCs provide owners is limited liability protections.  In this context, limited liability protects owners from the liabilities of their businesses.  In practice limited liability can protect owners personal assets and minimize the risk of potential loses to the amount they contributed to a business.  Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a blockchain based counter-part:      
 
-Real World Example:  Bob owns a house, car, a bank account, and crypto wallet. Bob also has a bakery, Bob's Bakery.  Alice slipped and fell in Bob's Bakery breaking her bones.  She sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  Has Bob had an LLC, Bob's would not have been have been a party to Alice's lawsuit, and Bob would have been personally protected from the judgment above and beyond the amount he invested in Bob's Bakery.
+Real World Example:  Bob owns a house, car, a bank account, and crypto wallet. Bob also has a bakery, Bob's Bakery.  Alice slipped and fell in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilityed would have beem limited to the amount he invested in Bob's Bakery.
 
-Crypto Wallet Example:  Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased a the Defi DAO token.  Alice used DeFi DAO Dex to swap some token and due to an exploit in the contract her wallet was drained of 10 cryptopunks and 100ETH.  She sues and in the lawsuit names every cryptowallet that holds DeFi DAO token, naming DeFi DAO token holders that are doxxed including Bob and listing John Doe for the undoxxed wallet owners.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of the DAO token all had fiduciary duties, the duty of care, and joint and several liablity.  This means each personal can be named peronally and held jointly and serverly liable worth the entire judgment, and in the actual case the alleged loses were in the 10's of millions.  For Bob this means Alice would attach his personal assets to collect 100% of any judgment for the acts of DeFi DAO, and he would be responsible for trying to get the other defendants to reimburse him.
+Crypto Wallet Example:  Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased the Defi DAO token.  Alice used DeFi DAO Dex to swap some tokens and due to an exploit her wallet was drained of 10 cryptopunks and 100ETH.  Alice sues and in the lawsuit Alice names every cryptowallet that holds DeFi DAO token, alledging every holder of DeFi DAO token was a general partner in the DAO and could be jointly and severally liable for her damages.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of the DAO token all had fiduciary duties, the duty of care, and could be jointly and severally liable for $55M in alledged loses from an exploit.  This means each if Bob were doxxed or identifiable, he could be named peronally in Alice's lawsuit and Alice could then collect the entire judgment against Bob and attach his house, car, bank account and crypto wallet to satisfy the judgment.  Then it would be Bob's responsibility to get the other defendants to pay him for their share of the judgment.
 
-
-
-### Limited Liabilty
-
-One of the benefits of LLCs provide owners is limited liability.  In practice limited liability generally means the owner(s) of an LLC are not personally liable for the liabilities of an LLC beyond the amount the owner has invested into the LLC.  Moreover, the LLC can provide limited liability protections to the owner's personal assets from debts and liabilities of the business. The aim of limited liability protection is to encourage greater investment into businesses by minimizing risk and potential liabilities to potential investors.
-
-## Delaware Series LLC
+## Delaware Limited Liability Company Act & Protected Series
 
 In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("DGCL") and the Delaware Limited Liability Company Act ("DLLCA"), allowing corporations and LLCs to use electronic databases like blockchains for business records. This legislation sets the groundwork for greater security, reliability, transparency, and efficiency and specifically anticipates onchain ownership.  
 
-This project shall utilize the Delaware Series LLC structure, specifically using "protected Series" which do not need to be filed, or recorded, with the State of Delaware, file Delaware annual reports, nor pay Delaware annual franchise taxes.
+This framework shall utilize the Delaware Series LLC structure, specifically using the "protected Series" which do not need to: 1) be filed, or recorded, with the State of Delaware; 2) file Delaware annual reports; or 3) pay Delaware annual franchise taxes.
 
 ## ENS as Legal Title
 
-Each Series/LLC shall be created through the a written Series Operating Agreement which shall memorialize and codify the Membership Interest, or ownership, of each Series/LLC as a unique ENS subdomain.  Therefore, legal title of each LLC/Series shall be managed onchain as an ENS subdomain providing a unique and immutable identifier for ownership and management purposes.
+Users may mint a Series/LLCs on demand by minting an ENS subdomain which shall simultaniously memorlalize and adopt a written Series Operating Agreement codiying the LLC Membership Interest, or ownership, as the ENS subdomain.  
+
+As permited by the Delaware LLC Act, LLC ownership can be manged on chanin.  This shall include the sale, transfer and disolution of their LLCs' onwership on chain as defined and authorized by the Series/LLC Agreement, the Delaware LLC Act, and other applicable laws. 
 
 ## Future
 
-This project establishes a legal framework that may be open-sourced along with the legal documentation. 
+This project establishes a scalable legal and technological framework that may be open-sourced along from the legal contracts to the smart contracts. 
 
-This framework could be utilized in the future in combination with oracles like Chainlink using CCIP to take ownership of real-world assets (RWAs) and put legal title on-chain.  In practice this framework can provide the foundation for T-0 settlements as well as the base layer for codifying more complex transactions such as options and drag-along or tag-along rights.
+For many users this will be their first experience owning an LLC and a real world asset ("RWA").  In the initial iteration, the LLC can provide users with limited liability protections for the assets and activities of the LLC wallet.
+
+In future iterations, this framework can go meta and scale exponentially and be used to mint ENS subdomaians that mint LLCs that take ownership to RWA's to bring RWA legal title onchain, helping onboard a billion RWAs.   
 
 ## Disclosures/Disclaimers
 
