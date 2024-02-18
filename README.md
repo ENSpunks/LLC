@@ -1,21 +1,29 @@
 
-# ENS Subdomains for Owning & Managing Limited Liability Companies ("LLCs") 
+# ENS Subdomains for Owning & Managing Limited Liability Companies 
 
 ## Abstract
 
-The project will create 10,000 "tokenized" LLCs, or Series, under a Delaware Series LLC. The ownership of each LLC/Series shall be represented by a corresponding ENS subdomain and tradable onchain. Each LLC/Series may have unique ownership and management, may own assets that are isolated from the other LLCs/Series, and provide limited liability protections to the owners from the other LLCs/Series.
+The law is hard to scale.  It is easy to organize 1 limited liability company ("LLC"), but 10, 100, 1000, how about 10000 limited liability companies?  How about an LLC for every crypto wallet and real world asset ("RWA") to bring them on chain?
+
+Using existing laws and blockchain infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and tehcnical framework to create an unlimited number of Delaware LLC's that are owned and managed onchain using ENS subdomains.
+
+We have made it as easy as minting an ENS subdomain to create and own a LLC.  
 
 ## Background
 
-In 2017, Delaware enacted amendments to the Delaware General Corporation Law (DGCL) and the Delaware Limited Liability Company Act (DLLCA), allowing corporations and LLCs to use electronic databases like blockchains for business records. This legislation sets the groundwork for greater security, reliability, transparency, and efficiency with smart contracts.  Specifically, the law anticipates onchain ownership.  
+In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("DGCL") and the Delaware Limited Liability Company Act ("DLLCA"), allowing corporations and LLCs to use electronic databases like blockchains for business records. This legislation sets the groundwork for greater security, reliability, transparency, and efficiency and specifically anticipates onchain ownership.  
 
 ### Delaware Series LLC
 
 This project shall utilize the Delaware Series LLC structure, specifically using "protected Series" which do not need to be filed, or recorded, with the State of Delaware, file Delaware annual reports, nor pay Delaware annual franchise taxes.
 
+### Limited Liabilty
+
+One of the benefits of LLCs provide owners is limited liability.  In practice limited liability generally means the owner(s) of an LLC are not personally liable for the liabilities of an LLC beyond the amount the owner has invested into the LLC.  Moreover, the LLC can provide limited liability protections to the owner's personal assets from debts and liabilities of the business. The aim of limited liability protection is to encourage greater investment into businesses by minimizing risk and potential liabilities to potential investors.
+
 ## ENS as Legal Title
 
-Each LLC/Series shall created through the a written Series Operating Agreement which shall memorialize and codify the ownership of each Series/LLC as a unique ENS subdomain.  Therefore, legal title of each LLC/Series shall be managed onchain as an ENS subdomain providing a unique and immutable identifier for ownership and management purposes.
+Each Series/LLC shall be created through the a written Series Operating Agreement which shall memorialize and codify the Membership Interest, or ownership, of each Series/LLC as a unique ENS subdomain.  Therefore, legal title of each LLC/Series shall be managed onchain as an ENS subdomain providing a unique and immutable identifier for ownership and management purposes.
 
 ## Future
 
