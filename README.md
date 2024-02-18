@@ -3,7 +3,7 @@
 
 ## Abstract
 
-The law is hard to scale.  It is easy to form 1 limied liability company ("LLC"), but 10, 100, 1000, how about 10000 LLCs? 
+The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs? 
 
 We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on demand.  
 
