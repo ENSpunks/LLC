@@ -29,7 +29,7 @@ In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("D
 
 This framework shall utilize the Delaware Series LLC structure, specifically using the "protected Series" which do not need to: 1) be filed, or recorded, with the State of Delaware; 2) file Delaware annual reports; or 3) pay Delaware annual franchise taxes.
 
-## ENS as Legal Title
+## Manage LLC Records & Ownership wWith ENS
 
 Users may mint a Series/LLCs on demand by minting an ENS subdomain which shall simultaniously memorlalize and adopt a written Series Operating Agreement codiying the LLC Membership Interest, or ownership, as the ENS subdomain.  
 
