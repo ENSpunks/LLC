@@ -7,13 +7,13 @@ The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"
 
 We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on demand.  
 
-Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaniously form a Delaware LLC and legal documentation that binds the ownership of the LLC to the ENS subdomain.  
+Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaneously form a Delaware LLC and legal documentation that binds the ownership of the LLC to the ENS subdomain.  
 
 For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technological foundation for a "RWA bridge" to import legal title for RWAs into ENS for on chain ownership.
 
 ## Benefits of Limited Liability
 
-One of the immediate benefits that LLCs provide owners is limited liability protections.  In this context, limited liability protects owners from the liabilities of their businesses.  In practice limited liability can protect owners personal assets and minimize the risk of potential loses to the amount they contributed to a business.  Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a blockchain based counter-part:      
+One of the immediate benefits that LLCs provide owners is limited liability protections.  In this context, limited liability protects owners from the liabilities of their businesses.  In practice limited liability can protect owners personal assets and minimize the risk of potential losses to the amount they contributed to a business.  Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a blockchain based counter-part:      
 
 ### Real World Example:  
 Bob owns a house, car, a bank account, and crypto wallet. Bob also has a bakery, Bob's Bakery.  Alice slipped and fell in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilityed would have beem limited to the amount he invested in Bob's Bakery.
@@ -37,7 +37,7 @@ Chainlink provides the following definition of asset tokenization:
 
 >Asset tokenization involves representing the ownership rights of real-world assets as digital tokens on a blockchain.
 
-Not only are LLCs assets that are ideally suited for tokenization, for example, certain states have already adopted laws expressly authorizing management of LLC ownership on chain, but LLCs are unique as a RWA.  Moreover, unlike other RWAs an LLC has legal personhood, meaning the LLC can take legal title and own other assets and the LLC has the right to contract in the real world.  
+Not only are LLCs assets that are ideally suited for tokenization, for example, certain states have already adopted laws expressly authorizing management of LLC ownership on chain, but LLCs are unique as a RWA.  Moreover, unlike other RWAs, an LLC has legal personhood, meaning the LLC can take legal title and own other assets and the LLC has the right to contract in the real world.  
 
 In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("DGCL") and the Delaware Limited Liability Company Act ("DLLCA"), allowing corporations and LLCs to use electronic databases like blockchains for business records. This legislation sets the groundwork for greater security, reliability, transparency, and efficiency and specifically anticipates onchain ownership.  
 
@@ -53,7 +53,7 @@ Tokenization of real world assets ("RWAs") presents the Oracle Problem.  Chainli
 
 >The blockchain oracle problem refers to the inability of blockchains to access external data, making them isolated networks, akin to a computer with no Internet connection. Bridging the connection between the blockchain (onchain) and the outside world (offchain) requires an additional piece of infrastructure—an oracle.
 
-In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  Pursuant to the Delaware LLC Act Tokenization, LLC shall have the legal right to create one or more protected series with on chain ownership.  Further, each Series shall have an generative Series Operating Agreement that serves as an oracle that legally  binds each series to a ENS subdomain representing the series ownership on chain.     
+In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  Pursuant to the Delaware LLC Act Tokenization, LLC shall have the legal right to create one or more protected series with on chain ownership.  Further, each Series shall have an generative Series Operating Agreement that serves as an oracle that legally binds each series to a ENS subdomain representing the series ownership on chain.     
 
 ![image](https://github.com/ENSpunks/LLC/assets/109005555/3dc94c5f-3e9e-4520-b2e6-1d61e2580cea)
 
