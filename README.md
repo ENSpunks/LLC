@@ -11,7 +11,7 @@ Using existing laws and blockchain public goods infrastructure, including the Et
 
 For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technological foundation for a "RWA bridge" to import legal title for RWAs into ENS for on chain ownership.
 
-## Limited Liability
+## Limited Liability Benefits
 
 One of the immediate benefits that LLCs provide owners is limited liability protections.  In this context, limited liability protects owners from the liabilities of their businesses.  In practice limited liability can protect owners personal assets and minimize the risk of potential loses to the amount they contributed to a business.  Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a blockchain based counter-part:      
 
