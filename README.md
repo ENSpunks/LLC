@@ -55,6 +55,8 @@ Tokenization of real world assets ("RWAs") presents the Oracle Problem.  Chainli
 
 In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  
 
+![image](https://github.com/ENSpunks/LLC/assets/109005555/3dc94c5f-3e9e-4520-b2e6-1d61e2580cea)
+
 ## Future
 
 This project establishes a scalable legal and technological framework that may be open-sourced along from the legal contracts to the smart contracts. 
