@@ -37,7 +37,7 @@ This framework shall utilize the Delaware Series LLC structure, specifically usi
 
 Users may mint a Series/LLCs on demand by minting an ENS subdomain which shall simultaniously memorlalize and adopt a written Series Operating Agreement codiying the LLC Membership Interest, or ownership, as the ENS subdomain.  
 
-As permited by the Delaware LLC Act, LLC ownership can be manged on chanin.  This shall include the sale, transfer and disolution of their LLCs' onwership on chain as defined and authorized by the Series/LLC Agreement, the Delaware LLC Act, and other applicable laws. 
+As permited by the Delaware LLC Act, LLC ownership can be manged on chanin.  This shall include the sale, transfer and dissolution of their LLCs' onwership on chain as defined and authorized by the Series/LLC Agreement, the Delaware LLC Act, and other applicable laws. 
 
 ### Oracle - The State of Delaware
 
