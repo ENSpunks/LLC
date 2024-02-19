@@ -25,7 +25,10 @@ In both cases Bob could have used one or more LLCs Bob to isolate his assets, mi
 
 ![image](https://github.com/ENSpunks/LLC/assets/109005555/a2e8d8fd-f2ce-4e34-ad22-3973c3b208f6)
 
-![image](https://github.com/ENSpunks/LLC/assets/109005555/5c6263d3-a4b5-41f6-9bc5-1231c99b7a4a)
+
+
+![image](https://github.com/ENSpunks/LLC/assets/109005555/f43901a2-300e-4358-8fb1-4f5c3a0bdbc4)
+
 
 
 ## Tokenization
