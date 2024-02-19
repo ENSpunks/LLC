@@ -57,11 +57,13 @@ In future iterations, this framework can go meta and scale exponentially and be 
 
 ## Disclosures/Disclaimers
 
-Each series is created with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. Effectively, each LLC/Series may be considered a holding company for digital onchain assets, providing owners limited liability protections.
+Each series shall be subjected to a Series Operating Agreement, the Delaware Limited Liabilitiy Company Act, and all other applicable laws.
+
+Each series shall be formed with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. Effectively, each LLC/Series may be considered a holding company for digital onchain assets, providing owners limited liability protections.
 
 As a single-member LLC, by default each LLC/Series is treated by the IRS as a disregarded entity for tax purposes.[1] This means the LLCs/Series generally do not need to file a seperste tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
 
-Selling of a LLC, in this case the ENS subdomain, will generally be considered a taxable event and subject to capital gains taxes.
+Selling of a LLC, in this case the ENS subdomain, will generally be considered a taxable event and subject to capital gains taxes.  Moreover, it is solely the responsibility of the owner of a Series to retain legal counsel and/or a tax professional, report and pay any and all taxes related to the Series.
 
 *These disclosures and disclaimers are not legal or tax advice but are provided for informational purposes only. Each owner of a LLC/Series should consult with a licensed attorney and tax professional.*
 
