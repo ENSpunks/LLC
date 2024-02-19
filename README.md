@@ -1,17 +1,13 @@
 
-# Tokenization, LLC - A LLC that Mints Tokenized Delaware LLCs Owned On Chain
+# Tokenization, LLC - An LLC that Mints Tokenized Delaware LLCs as ENS Subdomains
 
 ## Abstract
 
-The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs? 
+The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  the Delaware costs alone would be $1.1M & $3M in annual Delaware taxes thereafter, not to mention drafting and filing 10000 documents.
 
-We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on demand.  
+We have made it as easy as minting a Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
 
-Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaneously form a Delaware LLC and legal documentation that binds the ownership of the LLC to the ENS subdomain.  
-
-This framework shall utilize a Delaware Series LLC, specifically using "protected series" which do not need to: 1) be filed, or recorded, with the State of Delaware; 2) file Delaware annual reports; or 3) pay Delaware annual franchise taxes.  
-
-
+Using existing laws and blockchain public goods infrastructure, including ENS, this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaneously generate a Delaware protected series under a Delaware Series LLC and legally bind the ownership of the LLC to the ENS subdomain.  
 
 ## Benefits of Limited Liability
 
