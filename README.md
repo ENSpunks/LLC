@@ -21,7 +21,12 @@ Bob owns a house, car, a bank account, and crypto wallet. Bob also has a bakery,
 ### Crypto Wallet Example:  
 Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased the Defi DAO token.  Alice used DeFi DAO Dex to swap some tokens and due to an exploit her wallet was drained of 10 cryptopunks and 100ETH.  Alice sues and in the lawsuit Alice names everyone with a  cryptowallet that holds DeFi DAO token, alledging every holder of DeFi DAO token was a general partner in the DAO and could subject to joint and several liablity for her damages.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of DAO tokens could be subject to joint and several liablility for the $55M loses alleged in that case.  This means each if Bob were doxxed or identifiable, he could be personally named in Alice's lawsuit and Alice could then collect the entire judgment against Bob and Alice could even attach Bob's house, car, bank account and crypto wallet to satisfy the judgment.  Then it would be Bob's responsibility to get the other defendants to pay him for their share of the judgment.
 
-In both cases Bob could have used one or more LLCs Bob to isolate his assets minimizing risk and further minimizing his any loses for any potenital liabilities.   
+In both cases Bob could have used one or more LLCs Bob to isolate his assets, minimizing risk for any potenital liabilities.   
+
+![image](https://github.com/ENSpunks/LLC/assets/109005555/a2e8d8fd-f2ce-4e34-ad22-3973c3b208f6)
+
+![image](https://github.com/ENSpunks/LLC/assets/109005555/5c6263d3-a4b5-41f6-9bc5-1231c99b7a4a)
+
 
 ## Tokenization
 
