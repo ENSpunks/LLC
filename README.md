@@ -53,7 +53,7 @@ Tokenization of real world assets ("RWAs") presents the Oracle Problem.  Chainli
 
 >The blockchain oracle problem refers to the inability of blockchains to access external data, making them isolated networks, akin to a computer with no Internet connection. Bridging the connection between the blockchain (onchain) and the outside world (offchain) requires an additional piece of infrastructure—an oracle.
 
-In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  
+In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  Pursuant to the Delaware LLC Act Tokenization, LLC shall have the legal right to create one or more protected series with on chain ownership.  Further, each Series shall have an generative Series Operating Agreement that serves as an oracle that legally  binds each series to a ENS subdomain representing the series ownership on chain.     
 
 ![image](https://github.com/ENSpunks/LLC/assets/109005555/3dc94c5f-3e9e-4520-b2e6-1d61e2580cea)
 
