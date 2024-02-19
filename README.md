@@ -9,7 +9,9 @@ We have made it as easy as minting an ENS subdomain to "mint" a Delaware LLC on 
 
 Using existing laws and blockchain public goods infrastructure, including the Ethereum Name Service ("ENS"), this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaneously form a Delaware LLC and legal documentation that binds the ownership of the LLC to the ENS subdomain.  
 
-For many users this may be their first experience owning an LLC and/or owning legal title to a real world asset ("RWA") on chain.  In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet.  In future iterations, this framework can scale exponentially as the legal and technological foundation for a "RWA bridge" to import legal title for RWAs into ENS for on chain ownership.
+This framework shall utilize a Delaware Series LLC, specifically using "protected series" which do not need to: 1) be filed, or recorded, with the State of Delaware; 2) file Delaware annual reports; or 3) pay Delaware annual franchise taxes.  
+
+
 
 ## Benefits of Limited Liability
 
@@ -31,21 +33,25 @@ In both cases Bob could have used one or more LLCs Bob to isolate his assets, mi
 
 
 
-## Tokenization
+## LLC Tokenization
 
 Chainlink provides the following definition of asset tokenization:
 
 >Asset tokenization involves representing the ownership rights of real-world assets as digital tokens on a blockchain.
 
-Not only are LLCs assets that are ideally suited for tokenization, for example, certain states have already adopted laws expressly authorizing management of LLC ownership on chain, but LLCs are unique as a RWA.  Moreover, unlike other RWAs, an LLC has legal personhood, meaning the LLC can take legal title and own other assets and the LLC has the right to contract in the real world.  
+Tokenized LLCs are unique in many ways, not only do they provide owners limited liability protections, but unlike most other RWAs there are legal frameworks for: 1) tokenizing LLCs; 2) scaling LLCs on demand; and 3) using LLCs to own other real world assets.  
 
-In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("DGCL") and the Delaware Limited Liability Company Act ("DLLCA"), allowing corporations and LLCs to use electronic databases like blockchains for business records. This legislation sets the groundwork for greater security, reliability, transparency, and efficiency and specifically anticipates onchain ownership.  
+For many users this may be their first experience owning an LLC and owning a real world asset ("RWA") on chain.  
 
-This framework shall utilize the Delaware Series LLC structure, specifically using the "protected Series" which do not need to: 1) be filed, or recorded, with the State of Delaware; 2) file Delaware annual reports; or 3) pay Delaware annual franchise taxes.
+In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet as discusses above.  In future iterations, this framework can scale from millions of users and small businesses to billions as the legal and technical foundation for a "RWA bridge" to tokenize legal title for RWAs and bind legal ownership of LLC owned RWAs to ENS.
 
-Users may mint a Series/LLCs on demand by minting an ENS subdomain which shall simultaniously memorlalize and adopt a written Series Operating Agreement codiying the LLC Membership Interest, or ownership, as the ENS subdomain.  
+### Minting a Tokenized Delaware Protected Series Represented by ENS Subdomains
 
-As permited by the Delaware LLC Act, LLC ownership can be manged on chanin.  This shall include the sale, transfer and dissolution of their LLCs' onwership on chain as defined and authorized by the Series/LLC Agreement, the Delaware LLC Act, and other applicable laws. 
+We make it as easy as Alice and Bob minting a ENS subdomain to generate a protected series and series Operating Agreement, under a Delaware Series LLC, that legally binds the series ownership to the ENS subdomain.  In short, a ENS name gives the limited liability legal protections.  
+
+In 2017, Delaware enacted amendments to the Delaware General Corporation Law ("DGCL") and the Delaware Limited Liability Company Act ("DLLCA"), allowing corporations and LLCs to use electronic databases, or blockchains, for business records.  
+
+Pursuant to the Delaware LLC Act, Tokenization, LLC, shall have the legal right to create one or more protected series and manage its ownership records on chain.  Further, each Series shall have an generative Series Operating Agreement that serves as an oracle that legally binds each series to a ENS subdomain representing the series ownership on chain.     
 
 ### Oracle - The State of Delaware
 
@@ -53,7 +59,7 @@ Tokenization of real world assets ("RWAs") presents the Oracle Problem.  Chainli
 
 >The blockchain oracle problem refers to the inability of blockchains to access external data, making them isolated networks, akin to a computer with no Internet connection. Bridging the connection between the blockchain (onchain) and the outside world (offchain) requires an additional piece of infrastructure—an oracle.
 
-In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  Pursuant to the Delaware LLC Act Tokenization, LLC shall have the legal right to create one or more protected series with on chain ownership.  Further, each Series shall have an generative Series Operating Agreement that serves as an oracle that legally binds each series to a ENS subdomain representing the series ownership on chain.     
+In the initial iteration the State of Delaware, Department of State: Division of Corporations shall serve as the oracle for Tokenization, LLC, a Delaware Series Limited Liability Company.  
 
 ![image](https://github.com/ENSpunks/LLC/assets/109005555/3dc94c5f-3e9e-4520-b2e6-1d61e2580cea)
 
