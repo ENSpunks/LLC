@@ -1,5 +1,5 @@
 
-# Tokenization, LLC - A LLC that Mints Tokenized Delaware LLCs
+# Tokenization, LLC - A LLC that Mints Tokenized Delaware LLCs Owned On Chain
 
 ## Abstract
 
