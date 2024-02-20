@@ -11,12 +11,12 @@ Using existing laws and blockchain public goods infrastructure, including ENS an
 
 ## Benefits of Limited Liability
 
-An immediate benefit that LLCs provide is limited liability legal protections for owners.  In this context, an owner of a self-custody crypto wallet can use a tokenized LLC to minimize the owner's risk of potential liabilitiy to the their contributions to the LLC crypto wallet.  
+An immediate benefit that LLCs provide is limited liability legal protections for owners.  In this context, an owner of a self-custody crypto wallet can use a tokenized LLC to minimize the owner's risk of potential liability to the their contributions to the LLC crypto wallet.  
 
 Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a example blockchain based counter-part:      
 
 ### Real World Example:  
-Bob owns a house, a car, a bank account, and crypto wallet wallets. Bob also has a bakery, Bob's Bakery.  Alice slips and falls in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilityed would have beem limited to the amount he invested in Bob's Bakery.
+Bob owns a house, a car, a bank account, and crypto wallet wallets. Bob also has a bakery, Bob's Bakery.  Alice slips and falls in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgment against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilities would have beem limited to the amount he invested in Bob's Bakery.
 
 ### Crypto Wallet Example:  
 Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased the Defi DAO token.  Alice used DeFi DAO DeX to swap some tokens and due to an exploit her wallet was drained of 10 cryptopunks and 100ETH.  Alice sues and in the lawsuit Alice and names everyone with a cryptowallet that holds DeFi DAO token a personal defendant, alledging DeFi DAO was legally a General Partnership and holders of the DeFi DAO token could be subject to joint and several liablity for her damages.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of DAO tokens could be subject to joint and several liablility for DAO losses.  This means each if Bob were doxxed or identifiable, he could be personally named in Alice's lawsuit and Alice could then collect the entire judgment against Bob and Alice could even attach Bob's house, car, bank account and crypto wallet to satisfy the judgment.  Then it would be Bob's responsibility to get the other defendants to pay him for their share of the judgment.
@@ -43,7 +43,7 @@ In the initial iteration, the LLC can provide users with limited liability prote
 
 ### Minting a Tokenized Delaware Protected Series Represented by ENS Subdomains
 
-We want to make it as easy for Alice and Bob to mint a LLC as visting a website and minting an ENS subdomain.  For many users this may be their first experience owning an LLC and owning a real world asset ("RWA") on chain, for others this may be the first experience with a crypto wallet, ENS or token of any kind. Alice and Bob don't need to know any more about about ENS smart contracts and L2, as they do about the Delaware LLC Act, it will just work.
+We want to make it as easy for Alice and Bob to mint a LLC as visiting a website and minting an ENS subdomain.  For many users this may be their first experience owning an LLC and owning a real world asset ("RWA") on chain, for others this may be the first experience with a crypto wallet, ENS or token of any kind. Alice and Bob don't need to know any more about about ENS smart contracts and L2, as they do about the Delaware LLC Act, it will just work.
 
 ### Oracle - The State of Delaware
 
@@ -67,11 +67,11 @@ In future iterations, this framework can go meta and scale exponentially and be 
 
 ## Disclosures/Disclaimers
 
-Each series shall be subjected to a Series Operating Agreement, the Delaware Limited Liabilitiy Company Act, and all other applicable laws.
+Each series shall be subjected to a Series Operating Agreement, the Delaware Limited liability Company Act, and all other applicable laws.
 
-Each series shall be formed with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. Effectively, each LLC/Series may be considered a holding company for digital onchain assets, providing owners limited liability protections.
+Each series shall be formed with the express purposes of conducting any and all legal activities.  However, for practical purposes each LLC/Series shall be contractually prohibited from obtaining an EIN from the IRS, opening business bank accounts, or having multiple owners simultaneously. 
 
-As a single-member LLC, by default each LLC/Series is treated by the IRS as a disregarded entity for tax purposes.[1] This means the LLCs/Series generally do not need to file a seperste tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
+As a single-member LLC, by default each LLC/Series is treated by the IRS as a disregarded entity for tax purposes.[1] This means the LLCs/Series generally do not need to file a separate tax return and income or losses are reported on Form Schedule-C of the owner's personal tax returns.
 
 Selling of a LLC, in this case the ENS subdomain, will generally be considered a taxable event and subject to capital gains taxes.  Moreover, it is solely the responsibility of the owner of a Series to retain legal counsel and/or a tax professional, report and pay any and all taxes related to the Series.
 
