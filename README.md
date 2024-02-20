@@ -1,5 +1,5 @@
 
-# Tokenization, LLC - An LLC that Mints Tokenized Delaware LLCs as ENS Subdomains
+# Tokenization, LLC - An LLC that Mints Tokenized Delaware LLCs
 
 ## Abstract
 
