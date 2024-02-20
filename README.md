@@ -3,11 +3,13 @@
 
 ## Abstract
 
-The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  
+The law is hard, and expensive, to scale.  
 
-We make it as easy as minting an Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
+Tokenization, LLC makes it as easy as minting an Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.
 
-Using existing laws and blockchain public goods infrastructure, including ENS and CCIP-Read, this project has developed a legal and technical framework to scale, on demand, an unlimited number of Delaware LLC's by minting an ENS subdomain that simultaneously generates a LLC Operating Agreement and legally binds the ownership of the Delaware LLC to the ENS subdomain.  
+It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  Delaware filing fees alone for 10000 LLCs would be $1.1M and annual Delaware taxes would be $3M every year thereafter, not to mention any legal and/or registered agent costs.
+
+Using existing laws and blockchain public goods infrastructure, including ENS and CCIP-Read, this project has developed a legal and technical framework to abstract away Delaware fees and scale, on demand, an unlimited number of Delaware LLC's by minting an ENS subdomain that simultaneously generates a LLC Operating Agreement and legally binds the ownership of the Delaware LLC to the ENS subdomain.  
 
 ## Benefits of Limited Liability
 
