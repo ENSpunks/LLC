@@ -3,25 +3,25 @@
 
 ## Abstract
 
-The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  
+The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  The Delaware fees alone would be $1.1M and then $3M in annual taxes.
 
-We have made it as easy as minting a Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
+We make it as easy as minting an Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
 
-Using existing laws and blockchain public goods infrastructure, including ENS, this project has developed a legal and technical framework to scale an unlimited number of Delaware LLC's on demand by minting an ENS subdomain that will simultaneously generate a Delaware protected series under a Delaware Series LLC and legally bind the ownership of the Delaware protected series to the ENS subdomain.  
+Using existing laws and blockchain public goods infrastructure, including ENS and CCIP-Read, this project has developed a legal and technical framework to scale, on demand, an unlimited number of Delaware LLC's by minting an ENS subdomain that will simultaneously generate a LLC Operating Agreement that legally binds the ownership of the Delaware LLC to the ENS subdomain.  
 
 ## Benefits of Limited Liability
 
-One of the immediate benefits that LLCs provide is limited liability legal protections for owners.  In this context, limited liability protects owners from the liabilities of their businesses.  In practice limited liability can protect owners personal assets and limit the owner's risk of potential liabilitiy to the amount they contributed to a LLC, or business.  
+An immediate benefit that LLCs provide is limited liability legal protections for owners.  In this context, an owner of a self-custody crypto wallet can use a tokenized LLC to minimize the owner's risk of potential liabilitiy to the their contributions to the LLC crypto wallet.  
 
 Below are illustrative examples of the legal risks and benefits of limited liability protections in the context of the real world and a example blockchain based counter-part:      
 
 ### Real World Example:  
-Bob owns a house, car, a bank account, and crypto wallet. Bob also has a bakery, Bob's Bakery.  Alice slipped and fell in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilityed would have beem limited to the amount he invested in Bob's Bakery.
+Bob owns a house, a car, a bank account, and crypto wallet wallets. Bob also has a bakery, Bob's Bakery.  Alice slips and falls in Bob's Bakery breaking her bones.  Alice sues Bob personally because Bob did not have an LLC, or other legal entity protecting Bob.  Alice gets a judgement against Bob, which she can collect against Bob's personal assests including his house, car, bank account and crypto wallet.  If Bob had an LLC, then Bob's would not have been a party to Alice's lawsuit, and Bob and his assets would have been protected from the judgment and his liabilityed would have beem limited to the amount he invested in Bob's Bakery.
 
 ### Crypto Wallet Example:  
-Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased the Defi DAO token.  Alice used DeFi DAO Dex to swap some tokens and due to an exploit her wallet was drained of 10 cryptopunks and 100ETH.  Alice sues and in the lawsuit Alice names everyone with a  cryptowallet that holds DeFi DAO token, alledging every holder of DeFi DAO token was a general partner in the DAO and could subject to joint and several liablity for her damages.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of DAO tokens could be subject to joint and several liablility for the $55M loses alleged in that case.  This means each if Bob were doxxed or identifiable, he could be personally named in Alice's lawsuit and Alice could then collect the entire judgment against Bob and Alice could even attach Bob's house, car, bank account and crypto wallet to satisfy the judgment.  Then it would be Bob's responsibility to get the other defendants to pay him for their share of the judgment.
+Bob owns a house, car, a bank account, and crypto wallet.  Bob purchased the Defi DAO token.  Alice used DeFi DAO DeX to swap some tokens and due to an exploit her wallet was drained of 10 cryptopunks and 100ETH.  Alice sues and in the lawsuit Alice and names everyone with a cryptowallet that holds DeFi DAO token a personal defendant, alledging DeFi DAO was legally a General Partnership and holders of the DeFi DAO token could be subject to joint and several liablity for her damages.  This was the legal issue in [Sarcuni v. bZx DAO](https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf), where the US Disctrict Court ruled the holders of DAO tokens could be subject to joint and several liablility for DAO losses.  This means each if Bob were doxxed or identifiable, he could be personally named in Alice's lawsuit and Alice could then collect the entire judgment against Bob and Alice could even attach Bob's house, car, bank account and crypto wallet to satisfy the judgment.  Then it would be Bob's responsibility to get the other defendants to pay him for their share of the judgment.
 
-In both cases Bob could have used one or more LLCs Bob to isolate his assets, minimizing risk for any potenital liabilities.   
+In both cases Bob could have used one or more LLCs to protect his assets, minimizing risk for any potenital liabilities.  
 
 ![image](https://github.com/ENSpunks/LLC/assets/109005555/a2e8d8fd-f2ce-4e34-ad22-3973c3b208f6)
 
@@ -33,19 +33,17 @@ In both cases Bob could have used one or more LLCs Bob to isolate his assets, mi
 
 ## LLC Tokenization
 
-Chainlink provides the following definition of asset tokenization:
+Tokenized LLCs are unique in many ways as an asset, not only do LLCs provide owners limited liability protections where most assets create potential liabilities, they also expand the generally accept definition of asset tokenization.  For example, Chainlink provides the following definition of asset tokenization:
 
 >Asset tokenization involves representing the ownership rights of real-world assets as digital tokens on a blockchain.
 
-Tokenized LLCs are unique in many ways as an asset, not only do LLCs provide owners limited liability protections where most assets create liabilities, but unlike most other RWAs LLCs have established legal frameworks for: 1) tokenizing LLC ownership; 2) scaling LLCs on demand; and 3) using LLCs to own other real world assets including other LLCs.    
+While both LLCs other RWAs can be tokenized and their ownership rights represented onchain, like Bob's Bakery LLC could be tokenized and owned onchain, tokenized LLCs can also act more like tokenization infrastructure than just a normal RWA.  For example, Alice owns a NFT with a license for commercial IP rights.  Alice could use a tokenized LLC to own the NFT in the LLC crypto wallet and enter into real world licensing agreements using the LLC minimizing Alice's risk and potecting Alice's personal assets from potential liabilities related to her NFT.  The same tokenized RWA can be used to bring Bob's Bakery onchain, can in effect be used to give Alice's on chain assets legal personhood and bridge them into the real world.    
 
-In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet as discusses above.  In future iterations, this framework can scale from millions of users and small businesses to billions as the legal and technical foundation for a "RWA bridge" to tokenize legal title for RWAs and bind legal ownership of LLC owned RWAs to ENS.
+In the initial iteration, the LLC can provide users with limited liability protections for the activities of the LLC wallet as discusses above.  In future iterations, this framework can scale from millions of existing users, to bringing millions of small businesses on chain, to a the foundational legal and technical framework to help bridge billions of assets on chain.
 
 ### Minting a Tokenized Delaware Protected Series Represented by ENS Subdomains
 
-We want to make it as easy for Alice and Bob to mint a LLC as visting a website and minting an ENS subdomain.  For many users this may be their first experience owning an LLC and owning a real world asset ("RWA") on chain, for others this may be the first experience with a crypto wallet, ENS or token of any kind. Alice and Bob don't need to know any more about about ENS smart contracts and L2, as they do about the Delaware LLC Act, it will just work.     
-
-Subject to the terms of the Operating Agreement, the Delaware LLC Act, and other applicable laws, just as an LLC can own an LLC in the real world, ENS subdomains can own other ENS subdomains to reflect that ownership.  
+We want to make it as easy for Alice and Bob to mint a LLC as visting a website and minting an ENS subdomain.  For many users this may be their first experience owning an LLC and owning a real world asset ("RWA") on chain, for others this may be the first experience with a crypto wallet, ENS or token of any kind. Alice and Bob don't need to know any more about about ENS smart contracts and L2, as they do about the Delaware LLC Act, it will just work.
 
 ### Oracle - The State of Delaware
 
