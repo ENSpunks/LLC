@@ -3,7 +3,7 @@
 
 ## Abstract
 
-The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  The Delaware fees alone would be $1.1M and then $3M in annual taxes.
+The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"), but 10? 100? 1000? How about 10000 LLCs?  
 
 We make it as easy as minting an Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
 
