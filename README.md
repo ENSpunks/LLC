@@ -7,7 +7,7 @@ The law is hard to scale.  It is easy to form 1 limited liability company ("LLC"
 
 We make it as easy as minting an Ethereum Name Service ("ENS") subdomain to "mint" a tokenized Delaware LLC.  
 
-Using existing laws and blockchain public goods infrastructure, including ENS and CCIP-Read, this project has developed a legal and technical framework to scale, on demand, an unlimited number of Delaware LLC's by minting an ENS subdomain that will simultaneously generate a LLC Operating Agreement that legally binds the ownership of the Delaware LLC to the ENS subdomain.  
+Using existing laws and blockchain public goods infrastructure, including ENS and CCIP-Read, this project has developed a legal and technical framework to scale, on demand, an unlimited number of Delaware LLC's by minting an ENS subdomain that simultaneously generates a LLC Operating Agreement and legally binds the ownership of the Delaware LLC to the ENS subdomain.  
 
 ## Benefits of Limited Liability
 
