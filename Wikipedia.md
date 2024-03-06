@@ -1,3 +1,5 @@
+Mirrored on or about: February 16, 2024
+
 [Series LLC](https://en.m.wikipedia.org/wiki/Series_LLC)
 
 A series limited liability company, commonly known as a series LLC, protected cell company, segregated account company, or segregated portfolio company, and sometimes abbreviated as SLLC, is a form of a limited liability company that provides liability protection across multiple "series" each of which is theoretically protected from liabilities arising from the other series. In overall structure, the series LLC has been described as a master LLC that has separate divisions, which is similar to an S corporation with Q-subs.
