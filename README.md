@@ -1,10 +1,10 @@
 ---
-description: Legal Framework
+description: >-
+  A legal framework for minting, owning and managing Delaware Series LLC
+  Protected Series onchain built on the Ethereum Name Service ("ENS") protocol.
 ---
 
 # 🔮 LLC Oracle
-
-
 
 📜 Delaware Certificate of Formation
 
