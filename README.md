@@ -1,23 +1,21 @@
 ---
-description: >-
-  A legal framework for minting, owning and managing Delaware Series LLC
-  Protected Series onchain built on the Ethereum Name Service ("ENS") protocol.
+description: 'Delaware Department of State: Division of Corporations'
 ---
 
-# 🔮 LLC Oracle
+# 🏛️ Proof of Legal Personhood
 
-📜 Delaware Certificate of Formation
+Entity Name: TOKENIZATION LLC
 
-📄 LLC Operating Agreement
+Entity Kind: Limited Liability Company
 
-📝 Protected Series Operating Agreement
+Entity Type: Series
 
-⚖️ Delaware LLC Act
+State: Delaware
+
+Formation Date: 6 March 2024
+
+File Number: 3215889
 
 {% embed url="https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx" %}
-Delaware Secretary of State, Division of Corporations: TOKENIZATION LLC
-{% endembed %}
-
-{% embed url="https://app.ens.eth.limo/profile/?from=/&nametokenizationllc.eth=" %}
-Ethereum Name Service: tokenizationllc.eth
+Search the Delaware Public Records
 {% endembed %}
