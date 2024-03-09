@@ -1,6 +1,7 @@
 ---
-description: a Delaware Series Limited Liability Company
+description: Legal Framework
 ---
 
-# 🏛️ Tokenization LLC
+# 🔮 LLC Oracle
 
+[https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx)
