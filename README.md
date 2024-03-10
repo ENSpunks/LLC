@@ -1,11 +1,13 @@
 ---
 description: >-
-  A legal framework and operating system for forming, owning and managing
-  Delaware LLC Protected Series onchain using Ethereum Name Service ("ENS")
-  protocol.
+  LLC Oracle is the legal and technical framework for forming, owning and
+  managing a Delaware LLC Protected Series, under TOKENIZATION LLC, using
+  tokenizationllc.eth subdomains.
 ---
 
 # 🔮 LLC Oracle
+
+
 
 📜 Delaware Certificate of Formation
 
