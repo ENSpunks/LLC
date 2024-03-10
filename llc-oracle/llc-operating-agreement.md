@@ -1,2 +1,0 @@
-# 📄 LLC Operating Agreement
-
