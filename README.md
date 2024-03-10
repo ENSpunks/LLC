@@ -1,7 +1,7 @@
 ---
 description: >-
   A legal framework and operating system for forming, owning and managing
-  Delaware LLC Protected Series built on the Ethereum Name Service ("ENS")
+  Delaware LLC Protected Series onchain using Ethereum Name Service ("ENS")
   protocol.
 ---
 
@@ -14,3 +14,4 @@ description: >-
 📝 Protected Series Operating Agreement
 
 ⚖️ Delaware LLC Act
+
