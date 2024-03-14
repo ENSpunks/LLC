@@ -3,7 +3,7 @@
 ### NAME AND WEBSITE:
 
 TOKENIZATION LLC
-[`tokenizationllc.eth.limo`]([https://enslikeprotocol.eth.limo](https://app.webhash.com/Links/tokenization)))
+[`tokenizationllc.eth`](https://app.webhash.com/Links/tokenization)
 
 ### WHAT IS TOKENIZATION LLC? 
 
