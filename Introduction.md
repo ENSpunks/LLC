@@ -1,3 +1,9 @@
+---
+description: >-
+  A patent-pending[^1] system that enables minting, owning and managing 
+  a tokenized Delaware limited liability company compatible with ENS.  
+---
+
 # TOKENIZATION LLC - Mint a Delaware LLC
 
 ### NAME AND WEBSITE:
@@ -6,11 +12,15 @@ TOKENIZATION LLC
 </br>
 [`tokenizationllc.eth`](https://app.webhash.com/Links/tokenization)
 
+### BACKGROUND
+
+As some of you know I have been practicing law since 2010, primarily as outside counsel for business organizations handling matters like governance, compliance, intellectual property protection, tax strategy, and mergers & acquisitions.  In 2017 Delaware amended the Limited Liability Company Act, and expressly authorized LLCs to maintain their books and records on a d
+
 ### WHAT IS TOKENIZATION LLC? 
 
-A patent-pending[^1] system that has integrated with ENS to enable minting, owning and managing a tokenized Delaware limited liability company integrated into ENS.
+TOKENIZATION LLC, is a Delaware Series Limited Liability Company.
 
-The idea, or ideal, of TOKENIZATION LLC is to be an operating system for legal governance and compliance democratizing access to law, and scaling legal protections like of limited liability to every web3 user, every cryptowallet, every token, every project, every digital asset of any kind, and eventually every transaction.
+TOKENIZATION LLC, as a "series LLC" having filed proper notice in its Certificate of formation, and the Limited Liability Company Act (the "LLC Act"), has legal authority to create "protect series" pursuant to legal agreements.  Peviou
 
 ### WHY HAVE A LEGAL ENTITY?
 
