@@ -1,6 +1,6 @@
 # TOKENIZATION LLC
 
-A patent-pending[^1] system and method for minting, owning and managing a tokenized Delaware a limited liability company integrated into ENS.
+A patent-pending[^1] system and method for minting, owning and managing a tokenized Delaware limited liability company integrated into ENS.
 
 ### NAME AND WEBSITE:
 
@@ -17,14 +17,19 @@ As an example, TOKENIZATION LLC, is a Delaware Series Limited Liability Company 
 
 TOKENIZATION LLC  ENS to abstract away theses filings, registered agent and costs.  Moreover, any number of protected series can be formed under TOKENIZATION LLC by minting an ENS name, subdomain or subname, each protected series being a seperate legal entity with unique ownership, management, assets, debts/liabilities.   
 
-### Why have a legal entity?
+### WHY HAVE A LEGAL ENTITY?
 
 The following is an excerpt from the ENS DAO Governance Document:
 
 
-The general rationale for limited liability protections is applicable to anyone and everyone transacting transacting from a self-custody wallet that wants to take steps to legally protect their personal assets from their onchain activities and assets.  
+The general rationale for limited liability protections is applicable to anyone and everyone transacting from a self-custody wallet that wants to take steps to legally protect their personal assets from their onchain activities, transactions and assets.  
 
-For example, a Federal Court in California recently ruled the members of a DAO may be jointly and serverly liable for the damages of the DAO under the theory a DAO without a legal entity creates a General Partnership and the members are all considered General Partners of the same.[^2]  This particular case involved an alleged $50M exploit of a DeFi exchange where the plaintiffs sued the DAO and members of the DAO (as unknown John Does).   
+For example, a Federal Court in California recently ruled the members of a DAO may be jointly and serverly liable for the damages of the DAO under the theory a DAO without a legal entity creates a General Partnership and the members are all considered General Partners of the same.[^2]  This particular case involved an alleged $50M exploit of a DeFi exchange where the plaintiffs sued the DAO and members of the DAO (as unknown John Does).
+
+### WHAT DO YOU WANT TO BUILD ON ENS?
+
+
+
 
 ### WHAT DO YOU WANT TO BUILD ON ENS?
 
@@ -61,6 +66,10 @@ ELP takes the lessons learned from likebutton.eth and will rebuild as a tokenles
 - **`Organizing ❤️ Records and Making Them Accessible and Useable` :**
 
   ELP will organize the ❤️ ENS records, and make the accessible and useable for users and developers. For example, users can view and manage ❤️ ENS records through the user-friendly UI.  Moreover, ELP will be open and interoperable with other protocols such as Ethereum Follow Protcol (EFP).  
+
+### Status:
+
+`Private-Beta` 
 
 ### POINT OF CONTACT:
 
