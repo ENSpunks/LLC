@@ -2,7 +2,8 @@
 
 ### NAME AND WEBSITE:
 
-<b>TOKENIZATION LLC</b>
+TOKENIZATION LLC
+</br>
 [`tokenizationllc.eth`](https://app.webhash.com/Links/tokenization)
 
 ### WHAT IS TOKENIZATION LLC? 
