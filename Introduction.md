@@ -4,7 +4,8 @@ A patent-pending[^1] system and method for minting, owning and managing a tokeni
 
 ### NAME AND WEBSITE:
 
-TOKENIZATION LLC 
+TOKENIZATION LLC
+
 ([`tokenizationllc.eth.limo`]([https://enslikeprotocol.eth.limo](https://app.webhash.com/Links/tokenization)))
 
 ### WHAT IS TOKENIZATION LLC SOLVING?
