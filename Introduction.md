@@ -1,17 +1,13 @@
 # TOKENIZATION LLC
 
-A patent-pending[^1] system and method for minting, owning and managing a tokenized Delaware limited liability company integrated into ENS.
-
 ### NAME AND WEBSITE:
 
 TOKENIZATION LLC
-([`tokenizationllc.eth.limo`]([https://enslikeprotocol.eth.limo](https://app.webhash.com/Links/tokenization)))
+[`tokenizationllc.eth.limo`]([https://enslikeprotocol.eth.limo](https://app.webhash.com/Links/tokenization)))
 
-### WHAT DO YOU WANT TO BUILD ON ENS?
+### WHAT IS TOKENIZATION LLC? 
 
- As an example, TOKENIZATION LLC, is a Delaware Series Limited Liability Company and was required by law to file a Certificate of Formation, appoint a registered agent, and paying associated costs.  Further, every year thereafter Tokenization LLC will be required to pay an annual franchise tax to the State of Delaware.  For a lawyer like me, this still results in hundreds of dollars in legal fees, but for most people it might require the additional cost of thousands of dollars for professional services of lawyers.
-
-TOKENIZATION LLC uses ENS to abstract away filing fees, regitered agent appointments, and franchise taxes.  Moreover, as a Delaware Series LLC any number of protected series can be formed under TOKENIZATION LLC by minting an ENS name, subdomain or subname, each its own protected series that is can be treated as a seperate legal entity with unique ownership, management, assets, debts/liabilities from TOKENIZATION LLC and all series thereunder.   
+A patent-pending[^1] system that has integrated with ENS to enable minting, owning and managing a tokenized Delaware limited liability company integrated into ENS.
 
 ### WHAT IS TOKENIZATION LLC SOLVING?
 
@@ -46,15 +42,9 @@ Businesses are more acutely aware of legal and regulatory considerations of tran
 
 Legally, not all real world assets can be tokenized directly and represented on chain.  For example, a property owner would not generally be able to tokenize and transfer their property onchain without recording a deed memorializing the transfer.  However, an LLC could take title to real world assets, such as real property, tokenized ownership of the LLC could be transfered onchain without triggering any need to record a deed in the real world, because the transfer of ownership has been abstracted away to the LLC.
 
-### Milestones:
+### Status:
 
-TOKENIZATION LLC, a Delaware Series LLC: `Filed` 
-
-System and Method for Managing in Real-Time (S.M.A.R.T.) LLC And Corporation Books:  `Patent-Pending`
-
-LLC Oracle: 
-
-Status: `Private-Beta` 
+ `Private-Beta` 
 
 ### POINT OF CONTACT:
 
