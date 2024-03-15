@@ -29,7 +29,7 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
 
-| LLC      | 🔮 | ENS     |
+| State of Delaware      | 🔮 | ENS     |
 | :---        |    :----:   |          ---: |
 | TOKENIZATION LLC      | 🔮       | Tokenizationllc.eth   |
 | Protected Series   | 🔮        | Subdomain      |
