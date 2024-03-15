@@ -15,31 +15,29 @@ TOKENIZATION LLC
 
 ### BACKGROUND
 
-I have been a practicing attorney since 2010. The majority of my career I have acted as outside counsel for business organizations. My practice included governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions.
+> I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.
+
+I have been a practicing attorney since 2010. The majority of my career I have acted as outside counsel for business organizations for mattets like governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions. 
 
 In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician; one claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa. I proposed the team set up a legal entity, something akin to the Cayman Island ENS Foundation, for purposes of limited liability protections and "legal personhood."  Not having limited liability protections was not acceptable to me, and understandably a legal entity wasn't acceptable to the team as a whole. My solution was PUNKS LLC, a Delaware Series LLC, and drafting legal, or governance, documentation memorializing 0x addresses and enspunks.eth subdomains as seperate protected series under PUNKS LLC.   
 
-PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax.  
+PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax. 
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC, is a Delaware Series Limited Liability Company for minting/owning/managing "protected series" (seperate limited liability companies under TOKENIZATION LLC).
+TOKENIZATION LLC, is a Delaware Series Limited Liability Company.
 
-Where an ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, a Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered (filed woth the State) or protected (not filed with the State).
-
-The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of verification, or in the case of LLCs "proof of legal personhood."  
+TOKENIZATION LLC is proposing the LLC Oracle, described below, that provides  proof of legal personhood and a database of composable legal, or governance, documentation for "minting", owning and managing Delaware LLCs with ENS.
 
 ### 🔮 LLC ORACLE
 
-The LLC Oracle is a legal framework that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.
-
-The initial LLC Oracle is currently made up of the following legal documentation:
+The LLC Oracle is a legal framework that legally binds protected series under TOKENIZATION LLC to the ENS technical framework, currently made up of the following documentation:
 
 📜 TOKENIZATION LLC Delaware Certificate of Formation (Filed)
 
 📄 TOKENIZATION LLC Operating Agreement (Drafted, unpublished)
 
-📝 [subdomain].tokenizationllc.eth Protected Series Operating Agreement (Drafted, unpublished)
+📝 [subdomain].tokenizationllc.eth Protected Series Operating Agreement (Drafted, unpublished/unexecuted)
 
 ⚖️ Delaware LLC Act
 
