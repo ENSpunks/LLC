@@ -99,3 +99,7 @@ Remaining Balance: $35
 [^1]: United States Patent Trademark Office, Application #: 63/565,179
 
 [^2]: Sarcuni v. bZx DAO
+
+##
+
+Disclaimers/disclosures: Please note that Tokenization LLC is not a law firm, or an accounting firm. Tokenization LLC does not provide legal or tax advice or representation, and is not intended as a substitute for an attorney, law firm, accountant or accounting firm.
