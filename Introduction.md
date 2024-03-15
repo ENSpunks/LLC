@@ -29,9 +29,9 @@ TOKENIZATION LLC is a Delaware Series Limited Liability Company.
 
 ### 🔮 LLC ORACLE
 
-The LLC Oracle is a composable legal, or governance, framework that validates "legal proof of personhood" with the TOKENIZATION LLC and binds protected series under TOKENIZATION LLC to ENS names.
+The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records and binds the protected series under TOKENIZATION LLC to ENS Names.
 
-tokenizationllc.eth subdomains will be the first subdomains 
+TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains 
 
 📜 [TOKENIZATION LLC Delaware Certificate of Formation](https://app.gitbook.com/o/5sILrDG3w9P85m7OxFV6/s/P3gf3PMEX82mpp0NcN7r/delaware-certificate-of-formation) 
 
@@ -75,7 +75,7 @@ There are legal and regulatory issues preventing tokenization of certain real wo
 
 ### BUDGET/MILESTONES:
 
-Using the $500 1st place prize from the Webhash Buildathon as an inital budget to date I have achieved the following milestones and exhausted the following budget:
+Using the `$500` 1st place prize from the Webhash Buildathon as an inital budget to date I have achieved the following milestones and exhausted the following budget:
 
 * TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee +24 hour expedite service: `$210`
 * Delaware Registered Agent: `$50/year`
