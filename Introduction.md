@@ -43,9 +43,7 @@ The LLC Oracle is a legal framework that legally binds protected series under TO
 
 ### WHY HAVE A LEGAL ENTITY?
 
-The rationale for limited liability protections for ENS DAO members is generally applicable to all web3 users, or anyone generally with one or more self-custody wallets that desires to take steps to legally protect their personal assets from onchain activities, assets and/or transactions.
-
-The following is an excerpt from the ENS DAO Governance Document:
+The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want a legal entity providing protections and benefits, otherwise please visit the TOKENIZATION LLC website for more information:
 
 
 ### TAXATION
@@ -54,9 +52,9 @@ Taxation is a significant consideration for any potential legal entity.  One of 
 
 Initially the LLC Oracle will limit protected series under TOKENIZATION LLC to single-member LLCs where the owner of the ENS subdomain is the 100% owner of the protected series for sinplified tax treatment where the LLC doesnt file a seperate tax return. For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, and the business's profits and losses are reported on the owner's personal tax return.
 
-### BENEFITS/USE CASES:
+### USE CASES:
 
-<b>Scaling Limited Liability Protections:</b>
+<b>Limited Liability Protections:</b>
 
 Just as an example, a Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory a DAO without a legal entity creates a General Partnership and the members are all considered General Partners of the same.2 This particular case involved an alleged $50M exploit of a DeFi exchange where the plaintiffs sued the DAO and members of the DAO (as unknown John Does).
 As evidenced by this specific case, not all DAOs, tokens, NFTs, or projects in web3 are going to create a legal entity the way ENS DAO did for the benefit of its members, but nothing stops people from proactively creating their own legal entities for the purposes of providing them the same limited liability protections.
@@ -65,7 +63,7 @@ RR-BAYC is an example of a project that did not use a legal entity to protect th
 
 <b>Bridge IRL Businesses Onchain:</b>
 
-Businesses are more acutely aware of legal and regulatory considerations of accepting cryptocurrency and owning self-custodied digital assets. TOKENIZATION LLC can provide any real world business a seperate LLC, as a wholly owned subsidary, integrated into ENS to create limited liability protections between the legal entity operating in the real world and the business operations onchain using the ENS. 
+Businesses are more acutely aware of legal and regulatory considerations of accepting cryptocurrency and owning self-custodied digital assets. TOKENIZATION LLC can provide real world businesses a legal bridge onchain imported into ENS to manage the business wallets and other digital assets.   
 
 <b>Legal Personhood and Right to Contract:</b>
 
