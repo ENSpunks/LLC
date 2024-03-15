@@ -7,7 +7,7 @@ description: >-
 
 ##
 
-https://github.com/ENSpunks/LLC/blob/main/66D33DED-DA19-4883-83C1-CB71A3D63D4A.png
+![🔳](https://github.com/ENSpunks/LLC/blob/main/66D33DED-DA19-4883-83C1-CB71A3D63D4A.png)
 
 ### NAME AND WEBSITE:
 
