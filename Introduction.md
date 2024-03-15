@@ -45,13 +45,13 @@ TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains
 
 ### WHY HAVE A LEGAL ENTITY?
 
-The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want a legal entity providing protections and benefits, otherwise please visit the TOKENIZATION LLC website for more information:
+The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want their own LLCs acting as legal wrappers for their wallets and onchain activities:
 
 ![ENS Foundation](https://raw.githubusercontent.com/ENSpunks/LLC/main/IMG_6745.jpeg)
 
 ### TAXATION
 
-The initial iteration of the LLC Oracle shall be restricted to authorizing "single-member" LLCs, or series, which are treated as a "disregarded entity" by default by the IRS and does not file a tax return.
+The initial iteration of the LLC Oracle shall be restricted to authorizing "single-member" LLCs, or series, which are treated as a "disregarded entity" by default by the IRS and do not file a tax return.
 
 ### USE CASES:
 
