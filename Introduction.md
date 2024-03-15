@@ -17,8 +17,6 @@ TOKENIZATION LLC
 
 I became an attorney in 2010.  The majority of my career I have acted as outside counsel for business organizations.  My practice included governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions.
 
-In 2022, I was part of a project with 3 others I had never met IRL.  One claims to be a lawyer in the US (Me); one claims to be an astrophysicist+mathematician; one claims to be a Austalian photographer, surfer and artist; and then there are rumors of an undoxxed Sherpa. My solution was to form PUNKS LLC, a Delaware *series* limited liability company.  Using PUNKS LLC, I could create 
-
 ### WHAT IS TOKENIZATION LLC? 
 
 TOKENIZATION LLC, is a Delaware *Series* Limited Liability Company 
@@ -29,12 +27,6 @@ A Series LLC, short for Series Limited Liability Company, is a unique legal stru
 
 ### 🔮 LLC Oracle
 
-The LLC Oracle is the legalframe and technical framework that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.  
-
-Anyone can "create" a Delaware LLC with legal personhood and the legal right to contract in the real world by registering an ENS name, subdomain, or subname.  
-
-At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal documentation, filing fees, registered agent fees and annual franchise taxes.  
-
 📜 Delaware Certificate of Formation (Filed)
 
 📄 LLC Operating Agreement (Drafted, Unpublished)
@@ -42,6 +34,12 @@ At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal d
 📝 Protected Series Operating Agreement (Drafted, Unpublished)
 
 ⚖️ Delaware LLC Act
+
+The LLC Oracle is the legalframe and technical framework that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.  
+
+Anyone can "create" a Delaware LLC with legal personhood and the legal right to contract in the real world by registering an ENS name, subdomain, or subname.  
+
+At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal documentation, filing fees, registered agent fees and annual franchise taxes.  
 
 ### WHY HAVE A LEGAL ENTITY?
 
@@ -72,18 +70,18 @@ Legally, not all real world assets can be tokenized directly and represented on 
 
 <b>RR BAYC:</b>
 
-RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  They got sued by Yuga Labs individually for approximately $2M in profits from trademark infringment, but the value of the the judgement exceeded alleged revenues by $7M including attorneys fees and costs.
+RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  They got sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringment, but the value of the judgement exceeded alleged revenues by $7M including attorneys fees and costs.
 
 ### Budget/Milestones:
 
-Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project I spent the following:
+Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project I completed the following:
 
-TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
-Delaware Registered Agent: $50/year
-Delaware Trademark Fees: $35
-US Prosivional Patent Filing Fee: $60
-Mystery Cost: ~$79 (I'll never tell)
-ENS Cost: ?
+-TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
+-Delaware Registered Agent: $50/year
+-Delaware Trademark Fees: $35
+-US Prosivional Patent Filing Fee: $60
+-Mystery Cost: ~$79 (I'll never tell)
+-ENS Cost: ?
 
 Remaining Balance: $95 
 
