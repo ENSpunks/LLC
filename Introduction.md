@@ -25,11 +25,10 @@ TOKENIZATION LLC, is a Delaware *Series* Limited Liability Company
 
 A Series LLC, short for Series Limited Liability Company, is a unique legal structure that allows for the creation of individual series within a single LLC entity. Historically, Series LLCs were used by property owners or as asset holding companies, generally they operate as a separate entity with its own assets, liabilities, members (owners), managers and business activities.
 
-⬜️  
+First Header  | Second Header
 ------------- | -------------
-⬛️  | ⬛️
-🟥🟧🟨  | 🟩🟦🟪
-
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 ### 🔮 LLC Oracle
 
