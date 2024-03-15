@@ -27,11 +27,13 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC, is a Delaware Series Limited Liability Company.
 
-TOKENIZATION LLC is proposing the LLC Oracle, described below, that provides  proof of legal personhood and a database of composable legal, or governance, documentation for "minting", owning and managing Delaware LLCs with ENS.
+The LLC Oracle, described below, collectively creates proof of legal personhood and a framework for composable legal, or governance, documentation for "minting", owning and managing Delaware LLCs with ENS.  
 
 ### 🔮 LLC ORACLE
 
-The LLC Oracle is a legal framework that legally binds protected series under TOKENIZATION LLC to the ENS technical framework, currently made up of the following documentation:
+The LLC Oracle is a composable legal, or governance, framework that validates "legal proof of personhood" with the TOKENIZATION LLC and binds protected series under TOKENIZATION LLC to ENS names.
+
+tokenizationllc.eth subdomains will be the first subdomains 
 
 📜 [TOKENIZATION LLC Delaware Certificate of Formation](https://app.gitbook.com/o/5sILrDG3w9P85m7OxFV6/s/P3gf3PMEX82mpp0NcN7r/delaware-certificate-of-formation) 
 
@@ -45,7 +47,6 @@ The LLC Oracle is a legal framework that legally binds protected series under TO
 
 The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want a legal entity providing protections and benefits, otherwise please visit the TOKENIZATION LLC website for more information:
 
-
 ### TAXATION
 
 Taxation is a significant consideration for any potential legal entity.  One of the reasons the ENS DAO is wrapped by a Cayman Island Foundation Company Law foundations, is because the simplicity of the tax treatment, namely there are no taxes.
@@ -56,10 +57,11 @@ Initially the LLC Oracle will limit protected series under TOKENIZATION LLC to s
 
 <b>Limited Liability Protections:</b>
 
-Just as an example, a Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory a DAO without a legal entity creates a General Partnership and the members are all considered General Partners of the same.2 This particular case involved an alleged $50M exploit of a DeFi exchange where the plaintiffs sued the DAO and members of the DAO (as unknown John Does).
-As evidenced by this specific case, not all DAOs, tokens, NFTs, or projects in web3 are going to create a legal entity the way ENS DAO did for the benefit of its members, but nothing stops people from proactively creating their own legal entities for the purposes of providing them the same limited liability protections.
+Just as an example, a Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all considered General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This means that potentially a $50M judgment could be collectible against members of the DAO and their personal assets.  An LLC wrapping the wallet(s) hodling governance tokens and governance activities, including voting, can protect the owner and the owner's personal assets from those governance activities.
 
-RR-BAYC is an example of a project that did not use a legal entity to protect the people involved. Whatever your opinion about the case or the parties, the defendants were sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringement. Yuga ended up with a judgement that exceeded the alleged revenues by $7M, because there was no legal entity protecting them, Yuga can pursue that $7M deficiency against the defendants personally, where an LLC might have limited their liability and protected their personal assets.
+<b>RR-BAYC</b> 
+
+An NFT project that did not use a legal entity "wrapper" to protect the individuals involved. Whatever your opinion about the case or the parties, the defendants were sued by Yuga Labs *individually* for approximately $2M in profits from alleged trademark infringement. Yuga ended up with a judgement that exceeded the alleged revenues of the project by $7M, because there was no legal entity protecting them, Yuga can pursue that $7M deficiency against the defendants personally, where an LLC might have limited their liability to the $2M in profits and investment in the NFT project.
 
 <b>Bridge IRL Businesses Onchain:</b>
 
@@ -75,16 +77,16 @@ There are legal and regulatory issues preventing tokenization of certain real wo
 
 ### BUDGET/MILESTONES:
 
-Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project todate I have completed the following:
+Using the $500 1st place prize from the Webhash Buildathon as an inital budget to date I have achieved the following milestones and exhausted the following budget:
 
-* TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
-* Delaware Registered Agent: $50/year
-* Delaware Trademark Fees: $35
-* US Provisional Patent Filing Fee: $60
-* Mystery Expense: ~$79 
-* ENS Cost: ~$60
+* TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee +24 hour expedite service: `$210`
+* Delaware Registered Agent: `$50/year`
+* Delaware Trademark Fees: `$35`
+* US Provisional Patent Filing Fee: `$60`
+* Mystery Expense: `~$79` 
+* ENS Cost: `~$60`
 
-Remaining Balance: $35 
+Remaining Balance: `~$35` 
 
 ### STATUS:
 
