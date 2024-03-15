@@ -1,6 +1,6 @@
 ---
 description: >-
-  A patent-pending system I am integrating into ENS for "minting", owning and managing legal entities.
+  A patent-pending[^1] system I am integrating into ENS for "minting", owning and managing legal entities.
 ---
 
 # TOKENIZATION LLC - Mint/Own/Manage a Delaware LLC on ENS
@@ -35,11 +35,9 @@ A Series LLC, short for Series Limited Liability Company, is a unique legal stru
 
 ⚖️ Delaware LLC Act
 
-The LLC Oracle is the legalframe and technical framework that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.  
+At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal documentation, filing fees, registered agent fees and annual franchise taxes. 
 
-Anyone can "create" a Delaware LLC with legal personhood and the legal right to contract in the real world by registering an ENS name, subdomain, or subname.  
-
-At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal documentation, filing fees, registered agent fees and annual franchise taxes.  
+The LLC Oracle is a legalframe that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.   
 
 ### WHY HAVE A LEGAL ENTITY?
 
@@ -87,7 +85,6 @@ Remaining Balance: $95
 
 Not reflected in those costs are my education and years of professional practice.  However, in at least one instance, illustrated above, a subdomain from TOKENIZATION LLC under the LLC Oracle could have protected at least two individuals from a $7M surplus judgment.
 
-There are millions of Delaware LLCs, nearly all of them paid a filing fee, pay a Delaware registered agent fee annually, and pay a $300 Annual Franchise Tax.  TOKENIZATION LLC abstracts those fees away.
 
 ### Status:
 
