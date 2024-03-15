@@ -19,15 +19,17 @@ I have been a practicing attorney since 2010. The majority of my career I have a
 
 In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician in another Country; one that claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa somewhere in the mountains. I proposed a legal entity to cover us all, like the ENS Foundation, for purposes of protecting us and potential users, but due to the situation a legal entity was a non-starter for the group. That is when I initially drafted the legal documentation for PUNKS LLC, a Delaware Series LLC, that forms the foundation of TOKENIZATION LLC, and began "wrapping" my individual wallets for limited liability protections starting with my gnosis safe multisig wallet for the project (memorialized in my PUNKS LLC documentation as an enspunks.eth subdomain).
 
-TOKENIZATION LLC is an attempt to patent the system and method1 and scale this legal and technological solution I built for myself with PUNKS LLC.
+TOKENIZATION LLC is an attempt to patent the system[1] and scale the PUNKS LLC legal and technological solution.
 
 ### WHAT IS TOKENIZATION LLC? 
 
 TOKENIZATION LLC, is a Delaware Series Limited Liability Company
 
-A Series LLC, short for Series Limited Liability Company, is a unique legal structure that is oddly a lot like ENS Names. Where the ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, the Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered or protected.
+A Series LLC, short for Series Limited Liability Company, is a unique legal structure that is a lot like ENS Names. 
 
-The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of truth or verification, or in the case of LLCs "proof of legal personhood".
+Where the ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, the Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered (filed woth the State) or protected (not filed with the State).
+
+The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of truth or verification, or in the case of LLCs "proof of legal personhood."
 
 ### 🔮 LLC ORACLE
 
