@@ -28,7 +28,6 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 ### WHAT IS TOKENIZATION LLC? 
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
- 
 
 ### 🔮 LLC ORACLE
 
@@ -89,7 +88,7 @@ Remaining Balance: `~$35`
 
 ### STATUS:
 
- `prelaunch` 
+ `prelaunch seeking feedback` 
 
 ### POINT OF CONTACT:
 
