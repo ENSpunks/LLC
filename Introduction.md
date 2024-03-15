@@ -27,7 +27,7 @@ TOKENIZATION LLC, is a Delaware Series Limited Liability Company for minting/own
 
 Where an ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, a Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered (filed woth the State) or protected (not filed with the State).
 
-The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of truth or verification, or in the case of LLCs "proof of legal personhood" legally bound to the ENS that represents ownership of the LLC and is used to manage the LLC.  
+The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of verification, or in the case of LLCs "proof of legal personhood."  
 
 ### 🔮 LLC ORACLE
 
