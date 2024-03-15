@@ -33,7 +33,7 @@ TOKENIZATION LLC is going to patent-pending system and method to manage LLC and 
 
 | State of Delaware      | 🔮 | ENS     |
 | :---        |    :----:   |          ---: |
-| TOKENIZATION LLC      | 🔮       | Tokenizationllc.eth   |
+| TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
 | Protected Series   | 🔮        | Subdomain      |
 | Member      | 🔮       | Owner  |
 | Manager   | 🔮        | Manager      |
