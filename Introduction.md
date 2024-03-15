@@ -29,6 +29,14 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
 
+| LLC      | 🔮 | ENS     |
+| :---        |    :----:   |          ---: |
+| TOKENIZATION LLC      | 🔮       | Tokenizationllc.eth   |
+| Protected Series   | 🔮        | Subdomain      |
+| Member      | 🔮       | Owner  |
+| Manager   | 🔮        | Manager      |
+|  Books & Records   | 🔮        | Addresses & Records      |
+
 ### 🔮 LLC ORACLE
 
 The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records and binds  protected series under TOKENIZATION LLC to ENS Names.
