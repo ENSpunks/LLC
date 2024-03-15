@@ -15,31 +15,33 @@ TOKENIZATION LLC
 
 ### BACKGROUND
 
-I became an attorney in 2010.  The majority of my career I have acted as outside counsel for business organizations.  My practice included governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions.
+I have been a practicing attorney since 2010.  The majority of my career I have acted as outside counsel for business organizations.  My practice included governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions.
+
+In 2022 I launched a ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicit+mathematician in another Country; one that claimed to be an Austrlian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa somewhere in the mountains.  I proposed a legal entity to cover us all, like the ENS Foundation, for purposes of protecting us and potential users, but due to the situation a legal entity was a non-starter for the group.  Thats when I developed the legal documentation that forms the foundation of this project for PUNKS LLC, a Delaware Series LLC and began "wrapping" my individual wallets for limited liability protections starting with my gnosis safe multisig wallet for the project (memorialized in my PUNKS LLC documentation as an enspunks.eth subdomain).  
+
+TOKENIZATION LLC is an attempt to patent the system and method[^1] and scale this legal and technological solution I built for myself with PUNKS LLC.
 
 ### WHAT IS TOKENIZATION LLC? 
 
 TOKENIZATION LLC, is a Delaware *Series* Limited Liability Company 
 
-### WHAT IS A SERIES LLC? 
+A Series LLC, short for Series Limited Liability Company, is a unique legal structure that is oddly a lot like ENS Names.  Where the ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, the Series LLC can create an number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections.  Further, where ENS has an owner and manager, where the owner can change the manager, each series has a owner(member) and manager, where the owner can set the manager.  Where ENS names can be wrapped or unwrapped, the a Delaware Series LLC series can be registered or protected.
 
-A Series LLC, short for Series Limited Liability Company, is a unique legal structure that allows for the creation of individual series within a single LLC entity. Historically, Series LLCs were used by property owners or as asset holding companies, generally they operate as a separate entity with its own assets, liabilities, members (owners), managers and business activities.
+The LLC Oracle, describe below, can legally bind Series LLCs under TOKENIZATION LLC to ENS name, subdomains and subnames.  At a high level the LLC Oracle "abstracts away" the need for lawyers to drafte and file the legal documentation, filing fees, registered agent fees and annual franchise taxes.
 
-Just like an ENS Name can use smart contracts to create subdomain which can be owner/managed independently with unique records and addresses, a Delaware Series LLC can create protected series with legal contracts and each can be owned/managed independently with its own assets and liabilities.
+### 🔮 LLC ORACLE
 
-### 🔮 LLC Oracle
+The LLC Oracle is a legalframe that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.  
 
-📜 Delaware Certificate of Formation (Filed)
+The initial LLC Oracle is currently made up of the following legal documentation:
 
-📄 LLC Operating Agreement (Drafted, Unpublished)
+📜 TOKENIZATION LLC Delaware Certificate of Formation (Filed)
 
-📝 Protected Series Operating Agreement (Drafted, Unpublished)
+📄 TOKENIZATION LLC Operating Agreement (Drafted, unpublished)
+
+📝 [subdomain].tokenizationllc.eth Protected Series Operating Agreement (Drafted, unpublished)
 
 ⚖️ Delaware LLC Act
-
-At a high level the LLC Oracle "abstracts away" the lawyers, drafting of legal documentation, filing fees, registered agent fees and annual franchise taxes. 
-
-The LLC Oracle is a legalframe that legally binds protected series under TOKENIZATION LLC to ENS names, subdomains, and subnames.   
 
 ### WHY HAVE A LEGAL ENTITY?
 
@@ -47,6 +49,9 @@ The rationale for limited liability protections for ENS DAO members is generally
 
 The following is an excerpt from the ENS DAO Governance Document:
 
+### TAXATION
+
+Under the initial LLC Oracle, the ENS owner is the 100% owner of the TOKENIZATION LLC series, making each series a "single-member" LLC.  For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, but the business's profits and losses are reported on the owner's personal tax return the same as they would have done without have the legal protections offered by the LLC.  
 
 ### BENEFITS/USE CASES:
 
@@ -70,9 +75,9 @@ Legally, not all real world assets can be tokenized directly and represented on 
 
 <b>RR BAYC:</b>
 
-RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  They got sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringment, but the value of the judgement exceeded alleged revenues by $7M including attorneys fees and costs.
+RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  Whatever anyones opinion about the case or the parties, the defendants were sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringment. Yuga ended up with a judgement that exceeded the alleged revenues by $7M, because there was no legal entity protecting them, Yuga can persue that $7M deficieny against the defendants personally, where an LLC might have limited their liability and protected their personal assets.
 
-### Budget/Milestones:
+### BUDGET/MILESTONES:
 
 Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project I completed the following:
 
@@ -81,14 +86,11 @@ Using the $500 1st place prize from the Webhash Buildathon as an inital budget f
 * Delaware Trademark Fees: $35
 * US Provisional Patent Filing Fee: $60
 * Mystery Expense: ~$79 
-* ENS Cost: ?
+* ENS Cost: ~$60
 
-Remaining Balance: $95 
+Remaining Balance: $35 
 
-Not reflected in those costs are my education and years of professional practice.  However, in at least one instance, illustrated above, a subdomain from TOKENIZATION LLC under the LLC Oracle could have protected at least two individuals from a $7M surplus judgment.
-
-
-### Status:
+### STATUS:
 
  `not public` 
 
