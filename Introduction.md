@@ -28,10 +28,11 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 ### WHAT IS TOKENIZATION LLC? 
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
+ 
 
 ### 🔮 LLC ORACLE
 
-The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records and binds the protected series under TOKENIZATION LLC to ENS Names.
+The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records and binds  protected series under TOKENIZATION LLC to ENS Names.
 
 TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains 
 
