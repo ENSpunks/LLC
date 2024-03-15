@@ -61,6 +61,10 @@ Just as an example, a Federal Court in California recently ruled the members of 
 
 As evidenced by this specific case, not all DAOs, tokens, NFTs, or projects in web3 are going to create a legal entity the way ENS DAO did for the benefit of its members, but nothing stops people from proactively creating their own legal entities for the purposes of providing them the same limited liability protections.
 
+<b>RR BAYC:</b>
+
+RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  Whatever anyones opinion about the case or the parties, the defendants were sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringment. Yuga ended up with a judgement that exceeded the alleged revenues by $7M, because there was no legal entity protecting them, Yuga can persue that $7M deficieny against the defendants personally, where an LLC might have limited their liability and protected their personal assets.
+
 <b>Legal Personhood and Right to Contract:</b>
 
 Assume you own a NFT with commercial IP rights. A legal entity gives you a legal vehicle to own the NFT and enter into a real world legal agreements, such as a licensing agreement, of behalf of the NFT.  The LLC protects the owner and the owners personal assets from potential liabilities of the licensing agreement.  
@@ -72,10 +76,6 @@ Businesses are more acutely aware of legal and regulatory considerations of tran
 <b>RWA Tokenization Abstraction:</b>
 
 Legally, not all real world assets can be tokenized directly and represented on chain.  For example, a property owner would not generally be able to tokenize and transfer their property onchain without recording a deed memorializing the transfer.  However, an LLC could take title to real world assets, such as real property, tokenized ownership of the LLC could be transfered onchain without triggering any need to record a deed in the real world, because the transfer of ownership has been abstracted away to the LLC.
-
-<b>RR BAYC:</b>
-
-RR-BAYC is an example of a project that did not use a legal entity to protect the people involved.  Whatever anyones opinion about the case or the parties, the defendants were sued by Yuga Labs individually for approximately $2M in profits from alleged trademark infringment. Yuga ended up with a judgement that exceeded the alleged revenues by $7M, because there was no legal entity protecting them, Yuga can persue that $7M deficieny against the defendants personally, where an LLC might have limited their liability and protected their personal assets.
 
 ### BUDGET/MILESTONES:
 
