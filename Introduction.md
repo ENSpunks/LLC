@@ -1,6 +1,6 @@
 ---
 description: >-
-  A patent-pending system I am integrating into ENS for "minting", owning and managing legal entities.
+  System and Method for Managing And Real-Time Tracking (SMART) LLC and Corporation Books (patent-pending)
 ---
 
 # TOKENIZATION LLC - Mint/Own/Manage a Delaware LLC on ENS
@@ -17,19 +17,17 @@ TOKENIZATION LLC
 
 I have been a practicing attorney since 2010. The majority of my career I have acted as outside counsel for business organizations. My practice included governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions.
 
-In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician in another Country; one that claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa somewhere in the mountains. I proposed a legal entity to cover us all, like the ENS Foundation, for purposes of protecting us and potential users, but due to the situation a legal entity was a non-starter for the group. That is when I initially drafted the legal documentation for PUNKS LLC, a Delaware Series LLC, that forms the foundation of TOKENIZATION LLC, and began "wrapping" my individual wallets for limited liability protections starting with my gnosis safe multisig wallet for the project (memorialized in my PUNKS LLC documentation as an enspunks.eth subdomain).
+In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician; one claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa. I proposed the team set up a legal entity, something akin to the Cayman Island ENS Foundation, for purposes of limited liability protections and "legal personhood."  Not having limited liability protections was not acceptable to me, and understandably a legal entity wasn't acceptable to the team as a whole. My solution was PUNKS LLC, a Delaware Series LLC, and drafting legal, or governance, documentation memorializing 0x addresses and enspunks.eth subdomains as seperate protected series under PUNKS LLC.   
 
-TOKENIZATION LLC is an attempt to patent the system[1] and scale the PUNKS LLC legal and technological solution.
+PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax.  
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC, is a Delaware Series Limited Liability Company
+TOKENIZATION LLC, is a Delaware Series Limited Liability Company for minting/owning/managing "protected series" (seperate limited liability companies under TOKENIZATION LLC).
 
-A Series LLC, short for Series Limited Liability Company, is a unique legal structure that is a lot like ENS Names. 
+Where an ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, a Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered (filed woth the State) or protected (not filed with the State).
 
-Where the ENS can create any number of subdomains, each with its own owner, manager, addresses, assets and records, the Series LLC can create any number of series, or seperate LLCs, each with its own owner, manager, accounts, assets, records, and limited liability protections. Further, where ENS has an owner and manager and the owner can change the manager, each series has a owner (called member) and manager, similarly the series owner can "set" the manager. Also where ENS names can be wrapped or unwrapped, a Delaware Series LLC series can be registered (filed woth the State) or protected (not filed with the State).
-
-The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of truth or verification, or in the case of LLCs "proof of legal personhood."
+The LLC Oracle, describe below, is similar to DNSSEC for gasless DNS import into ENS. Mostly invisible infrastructure that when enabled provides an independent source of truth or verification, or in the case of LLCs "proof of legal personhood" legally bound to the ENS that represents ownership of the LLC and is used to manage the LLC.  
 
 ### 🔮 LLC ORACLE
 
@@ -54,7 +52,9 @@ The following is an excerpt from the ENS DAO Governance Document:
 
 ### TAXATION
 
-Under the initial LLC Oracle, the ENS owner is the 100% owner of the TOKENIZATION LLC series, making each series a "single-member" LLC. For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, but the business's profits and losses are reported on the owner's personal tax return the same as they would have done without have the legal protections offered by the LLC.
+Under the Cayman Island Foundation Company Law foundations, including the ENS Foundation, do not file or pay taxes.
+
+LLCs have significantly more flexibility in their tax treatment. Therefore, at least initally the LLC Oracle will initially only authorize "single-member" LLCs to be formed as series under TOKENIZATION LLC. For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, but the business's profits and losses are reported on the owner's personal tax return.
 
 ### BENEFITS/USE CASES:
 
@@ -67,7 +67,7 @@ RR-BAYC is an example of a project that did not use a legal entity to protect th
 
 <b>Bridge IRL Businesses Onchain:</b>
 
-Businesses are more acutely aware of legal and regulatory considerations of transacting online. Can a business begin accepting cryptocurrency in exchange for goods/services? How does a business take legal title and manage digital assets? TOKENIZATION LLC provides the legal vehicle an existing IRL business can own that memorializes and codifies the business activities and assets onchain. This also creates an additional layer of limited liability protections between the existing IRL business and their onchain activities. 
+Businesses are more acutely aware of legal and regulatory considerations of accepting cryptocurrency and owning self-custodied digital assets. TOKENIZATION LLC can provide any real world business a seperate LLC, as a wholly owned subsidary, integrated into ENS to create limited liability protections between the legal entity operating in the real world and the business operations onchain using the ENS. 
 
 <b>Legal Personhood and Right to Contract:</b>
 
