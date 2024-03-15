@@ -76,12 +76,12 @@ RR-BAYC is an example of a project that did not use a legal entity to protect th
 
 Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project I completed the following:
 
--TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
--Delaware Registered Agent: $50/year
--Delaware Trademark Fees: $35
--US Prosivional Patent Filing Fee: $60
--Mystery Cost: ~$79 (I'll never tell)
--ENS Cost: ?
+*TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
+*Delaware Registered Agent: $50/year
+*Delaware Trademark Fees: $35
+*US Prosivional Patent Filing Fee: $60
+*Mystery Cost: ~$79 (I'll never tell)
+*ENS Cost: ?
 
 Remaining Balance: $95 
 
