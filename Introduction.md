@@ -13,7 +13,7 @@ TOKENIZATION LLC
 </br>
 [`tokenizationllc.eth`](https://app.webhash.com/Links/tokenization)
 
-### BACKGROUND
+### BACKGROUND:
 
 > I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.
 
@@ -25,9 +25,7 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC, is a Delaware Series Limited Liability Company.
-
-The LLC Oracle, described below, collectively creates proof of legal personhood and a framework for composable legal, or governance, documentation for "minting", owning and managing Delaware LLCs with ENS.  
+TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
 
 ### 🔮 LLC ORACLE
 
