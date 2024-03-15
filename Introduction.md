@@ -27,8 +27,8 @@ A Series LLC, short for Series Limited Liability Company, is a unique legal stru
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+🔳 | 🔳
+🟥🟧🟨  | 🟩🟦🟪
 
 ### 🔮 LLC Oracle
 
