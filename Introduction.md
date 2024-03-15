@@ -7,8 +7,6 @@ description: >-
 
 ##
 
-![🔳](https://github.com/ENSpunks/LLC/blob/main/66D33DED-DA19-4883-83C1-CB71A3D63D4A.png)
-
 ### NAME AND WEBSITE:
 
 TOKENIZATION LLC
@@ -27,7 +25,11 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC is a Delaware Series Limited Liability Company. 
+TOKENIZATION LLC is a Delaware Series Limited Liability Company.
+
+TOKENIZATION LLC is going to patent-pending system and method to manage LLC and Corporation Books that I integrated into ENS.
+
+
 
 | State of Delaware      | 🔮 | ENS     |
 | :---        |    :----:   |          ---: |
@@ -56,10 +58,6 @@ TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains
 The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want their own LLCs acting as legal wrappers for their wallets and onchain activities:
 
 ![ENS Foundation](https://raw.githubusercontent.com/ENSpunks/LLC/main/IMG_6745.jpeg)
-
-### TAXATION
-
-The initial iteration of the LLC Oracle shall be restricted to authorizing "single-member" LLCs, or series, which are treated as a "disregarded entity" by default by the IRS and do not file a tax return.
 
 ### USE CASES:
 
@@ -98,7 +96,7 @@ Remaining Balance: `~$35`
 
 ### STATUS:
 
- `prelaunch seeking feedback` 
+ `prelaunch seeking feedback & potential integrations` 
 
 ### POINT OF CONTACT:
 
