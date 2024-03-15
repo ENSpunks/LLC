@@ -80,7 +80,7 @@ Using the $500 1st place prize from the Webhash Buildathon as an inital budget f
 * Delaware Registered Agent: $50/year
 * Delaware Trademark Fees: $35
 * US Provisional Patent Filing Fee: $60
-* Mystery Cost: ~$79 (I'll never tell)
+* Mystery Expense: ~$79 
 * ENS Cost: ?
 
 Remaining Balance: $95 
