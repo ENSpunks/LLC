@@ -1,9 +1,9 @@
 ---
 description: >-
-  A patent-pending[^1] system I am integrating into ENS for "minting", owning and managing legal entities.
+  A patent-pending system I am integrating into ENS for "minting", owning and managing legal entities.
 ---
 
-# TOKENIZATION LLC - Mint a Delaware LLC
+# TOKENIZATION LLC - Mint/Own/Manage a Delaware LLC on ENS
 
 ##
 
