@@ -47,6 +47,8 @@ TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains
 
 The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want a legal entity providing protections and benefits, otherwise please visit the TOKENIZATION LLC website for more information:
 
+![ENS Foundation](https://raw.githubusercontent.com/ENSpunks/LLC/main/IMG_6745.jpeg)
+
 ### TAXATION
 
 The initial iteration of the LLC Oracle shall be restricted to authorizing "single-member" LLCs, or series, which are treated as a "disregarded entity" by default by the IRS and does not file a tax return.
