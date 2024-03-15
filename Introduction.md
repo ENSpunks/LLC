@@ -50,9 +50,9 @@ The following is an excerpt from the ENS DAO Governance Document:
 
 ### TAXATION
 
-Under the Cayman Island Foundation Company Law foundations, including the ENS Foundation, do not file or pay taxes.
+Taxation is a significant consideration for any potential legal entity.  One of the reasons the ENS DAO is wrapped by a Cayman Island Foundation Company Law foundations, is because the simplicity of the tax treatment, namely there are no taxes.
 
-LLCs have significantly more flexibility in their tax treatment. Therefore, at least initally the LLC Oracle will initially only authorize "single-member" LLCs to be formed as series under TOKENIZATION LLC. For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, but the business's profits and losses are reported on the owner's personal tax return.
+Initially the LLC Oracle will limit protected series under TOKENIZATION LLC to single-member LLCs where the owner of the ENS subdomain is the 100% owner of the protected series for sinplified tax treatment where the LLC doesnt file a seperate tax return. For tax purposes, the IRS treats a single-member LLC as a "disregarded entity" by default. This means that the IRS disregards the LLC's separate existence for tax purposes and it does not file a separate tax return, and the business's profits and losses are reported on the owner's personal tax return.
 
 ### BENEFITS/USE CASES:
 
