@@ -77,7 +77,7 @@ There are legal and regulatory issues preventing tokenization of certain real wo
 
 ### BUDGET/MILESTONES:
 
-Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project I completed the following:
+Using the $500 1st place prize from the Webhash Buildathon as an inital budget for my project todate I have completed the following:
 
 * TOKENIZATION LLC Certificate of Formation, State of Delaware Filing Fee): $210 (I paid $100 expedite fee)
 * Delaware Registered Agent: $50/year
