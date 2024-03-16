@@ -61,7 +61,7 @@ The following is an excerpt from the ENS DAO Governance Documents and generally 
 
 Just as an example, a Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all considered General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This means that potentially a $50M judgment could be collectible against members of the DAO and their personal assets.  An LLC wrapping the wallet(s) hodling governance tokens and governance activities, including voting, can protect the owner and the owner's personal assets from those governance activities.
 
-<b>RR-BAYC</b> 
+<b>RR-BAYC:</b> 
 
 An NFT project that did not use a legal entity "wrapper" to protect the individuals involved. Whatever your opinion about the case or the parties, the defendants were sued by Yuga Labs *individually* for approximately $2M in profits from alleged trademark infringement. Yuga ended up with a judgement that exceeded the alleged revenues of the project by $7M, because there was no legal entity protecting them, Yuga can pursue that $7M deficiency against the defendants personally, where an LLC might have limited their liability to the $2M in profits and investment in the NFT project.
 
