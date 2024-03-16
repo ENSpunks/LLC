@@ -1,19 +1,18 @@
 ---
 description: >-
-  LLC Oracle is the legal and technical framework for forming, owning and
-  managing a Delaware LLC Protected Series, under TOKENIZATION LLC, using
-  tokenizationllc.eth subdomains.
+  LLC Oracle is the composable legal and technical framework binding the LLC to
+  ENS
 ---
 
 # 🔮 LLC Oracle
 
 
 
-📜 Delaware Certificate of Formation
+📜 [Delaware Certificate of Formation](delaware-certificate-of-formation.md)
 
-📄 LLC Operating Agreement
+📄 [LLC Operating Agreement](llc-operating-agreement.md)
 
-📝 Protected Series Operating Agreement
+📝 [Protected Series Operating Agreement](protected-series-operating-agreement.md)
 
-⚖️ Delaware LLC Act
+⚖️ [Delaware LLC Act](delaware-llc-act.md)
 
