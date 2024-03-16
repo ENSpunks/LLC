@@ -12,7 +12,7 @@ description: >-
 
 📄 [LLC Operating Agreement](llc-operating-agreement.md)
 
-📝 [Protected Series Operating Agreement](protected-series-operating-agreement.md)
+📝 [Protected Series Operating Agreement](protected-series-operating-agreement/)
 
 ⚖️ [Delaware LLC Act](delaware-llc-act.md)
 
