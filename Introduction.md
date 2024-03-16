@@ -39,9 +39,7 @@ TOKENIZATION LLC is going to patent-pending system and method to manage LLC and 
 
 ### 🔮 LLC ORACLE
 
-The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records and binds  protected series under TOKENIZATION LLC to ENS Names.
-
-TOKENIZATION LLC tokenizationllc.eth subdomains will be the first subdomains 
+The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records can scale to other ENS Names and/or legal entities.
 
 📜 [TOKENIZATION LLC Delaware Certificate of Formation](https://app.gitbook.com/o/5sILrDG3w9P85m7OxFV6/s/P3gf3PMEX82mpp0NcN7r/delaware-certificate-of-formation) 
 
@@ -94,7 +92,7 @@ Remaining Balance: `~$35`
 
 ### STATUS:
 
- `prelaunch seeking feedback & potential integrations` 
+ `prelaunch seeking feedback & potential integrations, specifically interested in subdomain solutions on Base and gasless records.` 
 
 ### POINT OF CONTACT:
 
