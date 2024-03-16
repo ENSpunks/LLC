@@ -1,6 +1,6 @@
 ---
 description: >-
-  System and Method for Managing And Real-Time Tracking (SMART) LLC and Corporation Books (patent-pending)
+  Patent-pending System and Method for Managing And Real-Time Tracking (SMART) LLC and Corporation Books
 ---
 
 # TOKENIZATION LLC - Mint/Own/Manage a Delaware LLC on ENS
