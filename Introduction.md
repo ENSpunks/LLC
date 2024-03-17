@@ -31,6 +31,15 @@ TOKENIZATION LLC is a Delaware Series Limited Liability Company.
 
 At a high level TOKENIZATION LLC is the legal equivilent of gasless DNS import for importing LLCs and importing the LLC legal protections, legal personhood and right to contract in the real world.
 
+| 🌎      | 🔮 | 🌐     |
+| :---        |    :----:   |          ---: |
+| State of Delaware      | 🔮 | ENS     |
+| TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
+| Protected Series   | 🔮        | Subdomain      |
+| Member      | 🔮       | Owner  |
+| Manager   | 🔮        | Manager      |
+|  Books & Records   | 🔮        | Addresses & Records      |
+
 ### 🔮 LLC ORACLE
 
 The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records can scale to other ENS Names and/or legal entities.
@@ -42,17 +51,6 @@ The LLC Oracle is a composable legal, or governance, framework that validates TO
 📄 TOKENIZATION LLC Operating Agreement (Drafted, unpublished)
 
 📝 [subdomain].tokenizationllc.eth Protected Series Operating Agreement (Drafted, unpublished/unexecuted)
-
-Both LLCs and ENS are extremely flexible, but they are oddly strutured and organized similary I intuitively mapped them as follows:
-
-| 🌎      | 🔮 | 🌐     |
-| :---        |    :----:   |          ---: |
-| State of Delaware      | 🔮 | ENS     |
-| TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
-| Protected Series   | 🔮        | Subdomain      |
-| Member      | 🔮       | Owner  |
-| Manager   | 🔮        | Manager      |
-|  Books & Records   | 🔮        | Addresses & Records      |
 
 ### WHY HAVE A LEGAL ENTITY?
 
