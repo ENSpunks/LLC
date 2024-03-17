@@ -29,9 +29,8 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company.
 
-TOKENIZATION LLC proposes to offer a patent-pending system integrated into ENS users will be "mint", own and manage LLCs using ENS. 
+TOKENIZATION LLC proposes to offer a patent-pending system integrated into ENS allowing users to "mint", own and manage LLCs using ENS.
 
-TOKENIZATION LLC proposes to proliferate limited liability protections, legal personhood and the right to contract in the real world.  
 
 
 | 🌎      | 🔮 | 🌐     |
