@@ -29,11 +29,11 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company.  
 
-At a high level the way ENS DAO is memorialized in the ENS Foundation documentation, TOKENIZATION LLC codifies and maps to ENS.
+At a high level TOKENIZATION LLC is abstracting away lawyers, filing documents, filing fees, processing times, registered agent fees, and franchise taxes for Delaware LLCs.
 
-As a Series LLC TOKENIZATION LLC can create seperate LLCs, or protected series.
+TOKENIZATION LLC easy as registering and managing an ENS Name. 
 
-TOKENIZATION LLC will start with a "master" agreement for minting, owning, managing protected series using tokenizationllc.eth subdomains, mapped to ENS as follows:
+TOKENIZATION LLC will start with a "master" operating agreement for minting, owning, managing protected series using tokenizationllc.eth subdomains, mapped to ENS as follows:
 
 | 🌎      | 🔮 | 🌐     |
 | :---        |    :----:   |          ---: |
