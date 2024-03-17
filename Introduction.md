@@ -17,18 +17,27 @@ TOKENIZATION LLC
 
 > I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.
 
-I have been a practicing attorney since 2010. The majority of my career I have acted as outside counsel for business organizations for matters like governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions. 
+I have been an attorney since 2010. The majority of my career I have acted as outside counsel for business organizations for matters like governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions. 
 
-In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician; one claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa. I proposed the team set up a legal entity, something akin to the Cayman Island ENS Foundation, for purposes of limited liability protections and "legal personhood."  Not having limited liability protections was not acceptable to me, and understandably a legal entity wasn't acceptable to the team as a whole. My solution was PUNKS LLC, a Delaware Series LLC, and drafting legal, or governance, documentation memorializing 0x addresses and enspunks.eth subdomains as seperate protected series under PUNKS LLC.   
+In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician; one claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa. I proposed the team set up a legal entity, something akin to the Cayman Island ENS Foundation, for purposes of limited liability protections and "legal personhood."  Not having limited liability protections was not acceptable to me, and understandably a legal entity wasn't acceptable to the team as a whole. My solution was PUNKS LLC, a Delaware Series LLC I codified my wallet on the multisig as a "protected series" under PUNKS.
 
-PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax. 
+PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  
+
+*PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax.* 
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC is a Delaware Series Limited Liability Company.
+TOKENIZATION LLC is a Delaware Series Limited Liability Company.  
 
-| State of Delaware      | 🔮 | ENS     |
+At a high level the way ENS DAO is memorialized in the ENS Foundation documentation, TOKENIZATION LLC codifies and maps to ENS.
+
+As a Series LLC TOKENIZATION LLC can create seperate LLCs, or protected series.
+
+TOKENIZATION LLC will start with a "master" agreement for minting, owning, managing protected series using tokenizationllc.eth subdomains, mapped to ENS as follows:
+
+| 🌎      | 🔮 | 🌐     |
 | :---        |    :----:   |          ---: |
+| State of Delaware      | 🔮 | ENS     |
 | TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
 | Protected Series   | 🔮        | Subdomain      |
 | Member      | 🔮       | Owner  |
