@@ -19,7 +19,7 @@ TOKENIZATION LLC
 
 I have been an attorney since 2010. The majority of my career I have acted as outside counsel for business organizations for matters like governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions. 
 
-In 2022 I launched an ENS project with a group of 4 that I had never met IRL. One claimed to be an attorney from the US (me); one claimed to be an astrophysicist+mathematician; one claimed to be an Australian photographer and surfer; and the last was totally undoxxed, but rumors abound of a Sherpa. I proposed the team set up a legal entity, something akin to the Cayman Island ENS Foundation, for purposes of limited liability protections and "legal personhood."  Not having limited liability protections was not acceptable to me, and understandably a legal entity wasn't acceptable to the team as a whole. My solution was PUNKS LLC, a Delaware Series LLC I codified my wallet on the multisig as a "protected series" under PUNKS.
+In 2022 I launched an ENS project with a group of 4 that I had never met IRL. An attorney from the US (me); a astrophysicist+mathematician; an Australian photographer/surfer; and an undoxxed team member. I proposed the team set up a legal entity, something like Cayman Island ENS Foundation  purposes of limited liability protections and "legal personhood."  Understandably a legal entity wasn't practical for the whole team,. My solution was PUNKS LLC, a Delaware Series LLC I codified my wallet on the multisig as a "protected series" under PUNKS.
 
 PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  
 
@@ -27,9 +27,12 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC is a Delaware Series Limited Liability Company.  
+TOKENIZATION LLC is a Delaware Series Limited Liability Company.
 
-At a high level TOKENIZATION LLC is the legal equivilent of gasless DNS import for importing LLCs and importing the LLC legal protections, legal personhood and right to contract in the real world.
+TOKENIZATION LLC proposes to offer a patent-pending system integrated into ENS users will be "mint", own and manage LLCs using ENS. 
+
+TOKENIZATION LLC proposes to proliferate limited liability protections, legal personhood and the right to contract in the real world.  
+
 
 | 🌎      | 🔮 | 🌐     |
 | :---        |    :----:   |          ---: |
