@@ -29,20 +29,7 @@ PUNKS LLC was a solution to a problem I had, but I think everyone with a self-cu
 
 TOKENIZATION LLC is a Delaware Series Limited Liability Company.  
 
-At a high level TOKENIZATION LLC is abstracting away lawyers, filing documents, filing fees, processing times, registered agent fees, and franchise taxes for Delaware LLCs.
-
-TOKENIZATION LLC easy as registering and managing an ENS Name. 
-
-TOKENIZATION LLC will start with a "master" operating agreement for minting, owning, managing protected series using tokenizationllc.eth subdomains, mapped to ENS as follows:
-
-| 🌎      | 🔮 | 🌐     |
-| :---        |    :----:   |          ---: |
-| State of Delaware      | 🔮 | ENS     |
-| TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
-| Protected Series   | 🔮        | Subdomain      |
-| Member      | 🔮       | Owner  |
-| Manager   | 🔮        | Manager      |
-|  Books & Records   | 🔮        | Addresses & Records      |
+At a high level TOKENIZATION LLC is the legal equivilent of gasless DNS import for importing LLCs and importing the LLC legal protections, legal personhood and right to contract in the real world.
 
 ### 🔮 LLC ORACLE
 
@@ -55,6 +42,17 @@ The LLC Oracle is a composable legal, or governance, framework that validates TO
 📄 TOKENIZATION LLC Operating Agreement (Drafted, unpublished)
 
 📝 [subdomain].tokenizationllc.eth Protected Series Operating Agreement (Drafted, unpublished/unexecuted)
+
+Both LLCs and ENS are extremely flexible, but they are oddly strutured and organized similary I intuitively mapped them as follows:
+
+| 🌎      | 🔮 | 🌐     |
+| :---        |    :----:   |          ---: |
+| State of Delaware      | 🔮 | ENS     |
+| TOKENIZATION LLC      | 🔮       | tokenizationllc.eth   |
+| Protected Series   | 🔮        | Subdomain      |
+| Member      | 🔮       | Owner  |
+| Manager   | 🔮        | Manager      |
+|  Books & Records   | 🔮        | Addresses & Records      |
 
 ### WHY HAVE A LEGAL ENTITY?
 
