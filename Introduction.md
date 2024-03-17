@@ -90,7 +90,7 @@ Remaining Balance: `~$35`
 
 ### STATUS:
 
- `prelaunch seeking feedback & potential integrations, specifically interested in subdomain solutions on Base and gasless records.` 
+ `prelaunch seeking feedback & potential integrations.` 
 
 ### POINT OF CONTACT:
 
