@@ -29,7 +29,7 @@ PUNKS LLC was a solution to a problem I had, but everyone with a self-custody wa
 
 TOKENIZATION LLC will let anyone "mint", own, and manage a real world legal entity integrated into ENS.  
 
-Law is expensive and difficult to scale.  At a high level the way the ENS Foundation "wraps" the DAO, TOKENIZATION LLC will scale Delaware LLC legal wrappers to individual users, inidividual wallets, individual assets and even individual transactions.  
+Law is expensive and difficult to scale.  At a high level the way the ENS Foundation "wraps" the DAO, TOKENIZATION LLC will scale Delaware LLC legal wrappers to individual users, individual wallets, individual assets and even individual transactions.  
 
 The following table illustrates the composable legal mapping for the proposed protected series under TOKENIZATION LLC legally bound to tokenizationllc.eth subdomains: 
 
@@ -56,7 +56,7 @@ The LLC Oracle is the composable legal, or governance, framework and the documen
 
 ### WHY HAVE A LEGAL ENTITY?
 
-The following is an excerpt from the ENS DAO Governance Documents with respect to the benefits of the ENS Founation, which are generally applicable as to why everyone would want a LLC acting as a legal wrapper for their wallets and onchain activities:
+The following is an excerpt from the ENS DAO Governance Documents with respect to the benefits of the ENS Foundation, which are generally applicable as to why everyone would want a LLC acting as a legal wrapper for their wallets and onchain activities:
 
 ![ENS Foundation](https://raw.githubusercontent.com/ENSpunks/LLC/main/IMG_6745.jpeg)
 
@@ -64,7 +64,7 @@ The following is an excerpt from the ENS DAO Governance Documents with respect t
 
 <b>Limited Liability Protections:</b>
 
-A Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This puts all members holders at risk of being personal liability for a $50M judgmen.  An LLC wrapping the wallet(s) hodling governance tokens and participating in governance activities, including voting, can protect the owner and the owner's personal assets from those activities.
+A Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This puts all members holders at risk of being personal liability for a $50M judgment.  An LLC wrapping the wallet(s) hodling governance tokens and participating in governance activities, including voting, can protect the owner and the owner's personal assets from those activities.
 
 <b>RR-BAYC:</b> 
 
@@ -72,7 +72,7 @@ An NFT project that did not use a legal entity "wrapper" to protect the individu
 
 <b>Bridge IRL Businesses Onchain:</b>
 
-Businesses are more acutely aware of legal and regulatory considerations of accepting cryptocurrency and owning self-custodied digital assets. TOKENIZATION LLC can provide real world businesses a legal bridge onchain imported into ENS to manage the business wallets and other digital assets.   
+Businesses are more acutely aware of legal and regulatory considerations of accepting cryptocurrency and owning self-custody digital assets. TOKENIZATION LLC provide real world businesses a legal solution and creates a separate vehicle to manage self-custody business wallets and other digital assets, also providing real world business their own legal liability protections from their onchain activities.   
 
 <b>Legal Personhood and Right to Contract:</b>
 
@@ -80,7 +80,7 @@ Assume you own a NFT with commercial IP rights. A legal entity gives you a legal
 
 <b>RWA Tokenization Abstraction:</b>
 
-There are legal and regulatory issues preventing tokenization of certain real world assets. For example, a property owner would not generally be able to tokenize and transfer their property onchain in the US.  The US is a patchwork of laws with 50 states and thousands of counties that nearly all have their own rules regarding memorializing transfers of property by recording a public deed. While the direct ownership of property generally cannot be tokenized directly, an LLC can be created to own the property, recorded on a deed, and then the LLC ownership can be tokenized and transfered onchain without triggering a change in legal title of the property.  
+There are legal and regulatory issues preventing tokenization of certain real world assets. For example, a property owner would not generally be able to tokenize and transfer their property onchain in the US.  The US is a patchwork of laws with 50 states and thousands of counties that nearly all have their own rules regarding memorializing transfers of property by recording a public deed. While the direct ownership of property generally cannot be tokenized directly, an LLC can be created to own the property, recorded on a deed, and then the LLC ownership can be tokenized and transferred onchain without triggering a change in legal title of the property.  
 
 ### BUDGET/MILESTONES:
 
