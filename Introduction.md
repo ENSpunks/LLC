@@ -19,11 +19,11 @@ TOKENIZATION LLC
 
 I have been an attorney since 2010. The majority of my career I have acted as outside counsel for business organizations for matters like governance, compliance, intellectual property protection, tax strategy, mergers & acquisitions, or other business transactions. 
 
-In 2022 I launched an ENS project with a group of 4 that I had never met IRL. An attorney from the US (me); a astrophysicist+mathematician; an Australian photographer/surfer; and an undoxxed team member. I proposed the team set up a legal entity, something like Cayman Island ENS Foundation  purposes of limited liability protections and "legal personhood."  Understandably a legal entity wasn't practical for the whole team,. My solution was PUNKS LLC, a Delaware Series LLC I codified my wallet on the multisig as a "protected series" under PUNKS.
+In 2022 I launched an ENS project with a group of 4 that I had never met IRL. An attorney from the US (me); a astrophysicist+mathematician; an Australian photographer/surfer; and an undoxxed team member. I proposed the team set up a legal entity, something like the Cayman Island ENS Foundation for purposes of limited liability protections.  Understandably a legal entity wasn't practical for the whole team. My solution was PUNKS LLC, a Delaware Series LLC I used to "wrap" my wallet on the project multisig.
 
 PUNKS LLC was a solution to a problem I had, but everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  
 
-*PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax.* 
+*PUNKS LLC saved me ~$200 in Delaware filing fees per wallet I "wrapped", ~$50/year/LLC registered agent fee, and $300/year/LLC in franchise taxes.* 
 
 ### WHAT IS TOKENIZATION LLC? 
 
