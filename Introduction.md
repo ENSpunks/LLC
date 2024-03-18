@@ -21,17 +21,17 @@ I have been an attorney since 2010. The majority of my career I have acted as ou
 
 In 2022 I launched an ENS project with a group of 4 that I had never met IRL. An attorney from the US (me); a astrophysicist+mathematician; an Australian photographer/surfer; and an undoxxed team member. I proposed the team set up a legal entity, something like Cayman Island ENS Foundation  purposes of limited liability protections and "legal personhood."  Understandably a legal entity wasn't practical for the whole team,. My solution was PUNKS LLC, a Delaware Series LLC I codified my wallet on the multisig as a "protected series" under PUNKS.
 
-PUNKS LLC was a solution to a problem I had, but I think everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  
+PUNKS LLC was a solution to a problem I had, but everyone with a self-custody wallet has the same problem, unmitigated legal risk and potential personal liabilities.  
 
 *PUNKS LLC also saved me ~$200 per LLC (or wallet/ENS I wrapped) in filing fees, ~$50/year/LLC registered agent fee, and $300/yr/LLC franchise tax.* 
 
 ### WHAT IS TOKENIZATION LLC? 
 
-TOKENIZATION LLC is a Delaware Series Limited Liability Company.
+TOKENIZATION LLC will let anyone "mint", own, and manage a real world legal entity integrated into ENS.  
 
-TOKENIZATION LLC proposes to offer a patent-pending system integrated into ENS allowing users to "mint", own and manage LLCs using ENS.
+Law is expensive and difficult to scale.  At a high level the way the ENS Foundation "wraps" the DAO, TOKENIZATION LLC will scale Delaware LLC legal wrappers to individual users, inidividual wallets, individual assets and even individual transactions.  
 
-
+The following table illustrates the composable legal mapping for the proposed protected series under TOKENIZATION LLC legally bound to tokenizationllc.eth subdomains: 
 
 | 🌎      | 🔮 | 🌐     |
 | :---        |    :----:   |          ---: |
@@ -42,9 +42,9 @@ TOKENIZATION LLC proposes to offer a patent-pending system integrated into ENS a
 | Manager   | 🔮        | Manager      |
 |  Books & Records   | 🔮        | Addresses & Records      |
 
-### 🔮 LLC ORACLE
+### 🔮 LLC ORACLE  
 
-The LLC Oracle is a composable legal, or governance, framework that validates TOKENIZATION LLC "proof of legal personhood" with Delaware Secretary of State - Division of Corporations public records can scale to other ENS Names and/or legal entities.
+The LLC Oracle is the composable legal, or governance, framework and the documentation memorializing and codifying TOKENIZATION LLC with respect to ENS:  
 
 ⚖️ [Delaware LLC Act](https://app.gitbook.com/o/5sILrDG3w9P85m7OxFV6/s/P3gf3PMEX82mpp0NcN7r/delaware-llc-act)
 
@@ -56,7 +56,7 @@ The LLC Oracle is a composable legal, or governance, framework that validates TO
 
 ### WHY HAVE A LEGAL ENTITY?
 
-The following is an excerpt from the ENS DAO Governance Documents and generally applicable as to why everyone would want their own LLCs acting as legal wrappers for their wallets and onchain activities:
+The following is an excerpt from the ENS DAO Governance Documents with respect to the benefits of the ENS Founation, which are generally applicable as to why everyone would want a LLC acting as a legal wrapper for their wallets and onchain activities:
 
 ![ENS Foundation](https://raw.githubusercontent.com/ENSpunks/LLC/main/IMG_6745.jpeg)
 
@@ -64,7 +64,7 @@ The following is an excerpt from the ENS DAO Governance Documents and generally 
 
 <b>Limited Liability Protections:</b>
 
-Just as an example, a Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all considered General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This means that potentially a $50M judgment could be collectible against members of the DAO and their personal assets.  An LLC wrapping the wallet(s) hodling governance tokens and governance activities, including voting, can protect the owner and the owner's personal assets from those governance activities.
+A Federal Court in California recently ruled the members of a DAO may be joint and severely liable for the damages of the DAO under the theory that a DAO without a legal entity, or "legal wrapper", creates a General Partnership and members of the DAO are all General Partners.[2]  This particular case involved an alleged exploit and loss of ~$50M by a DeFi exchange. The plaintiffs sued the DAO and the members of the DAO.   This puts all members holders at risk of being personal liability for a $50M judgmen.  An LLC wrapping the wallet(s) hodling governance tokens and participating in governance activities, including voting, can protect the owner and the owner's personal assets from those activities.
 
 <b>RR-BAYC:</b> 
 
@@ -97,7 +97,7 @@ Remaining Balance: `~$35`
 
 ### STATUS:
 
- `prelaunch seeking feedback & potential integrations.` 
+ `prelaunch` 
 
 ### POINT OF CONTACT:
 
